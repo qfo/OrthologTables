@@ -6,7 +6,7 @@ Each row is a putative ortholog, and contains Uniprot Accession, Uniprot Entry, 
 
 Note on naming: Since most protein IDs were given in uniprot format, I converted the minority ensembl proteins IDs to uniprot where possible. In these cases, both the ensemble ID and uniprot ID are kept, but no effort was made to convert uniprot IDs into Ensembl. 
 
-Ortholog groups are pulled from the Quest for Orthologs reference proteome benchmarking 2011. The following algorithms ortholog calling algorithms were run on identical proteome sets covering 66 species, including eukaryotes, archaea and bacteria. 
+Ortholog groups are pulled from the Quest for Orthologs reference proteome benchmarking 2011. The following algorithms ortholog calling algorithms were run on identical proteome sets covering 66 species, including eukaryotes, archaea and bacteria. http://www.ebi.ac.uk/reference_proteomes
 
 Hieranoid 2.0 (KO) release 74
 
