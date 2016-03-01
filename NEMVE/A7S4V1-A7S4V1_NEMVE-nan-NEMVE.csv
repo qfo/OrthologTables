@@ -1,0 +1,15 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+A7S4V1,A7S4V1_NEMVE,nan,NEMVE,6.0,,,1,1,,,1,,1,1,,,,1
+P11976,PSTA_DICDI,nan,DICDI,2.0,,,,,,,1,,,,,,,1
+Q54X44,Q54X44_DICDI,nan,DICDI,2.0,,,,,,,,,1,,,,,1
+Q75JE6,Q75JE6_DICDI,nan,DICDI,2.0,,,,,,,,,1,,,,,1
+B0G123,B0G123_DICDI,nan,DICDI,1.0,,,,,,,,,1,,,,,
+C3XZX5,C3XZX5_BRAFL,nan,BRAFL,1.0,,,,,,,,,1,,,,,
+D3Z4H5,D3Z4H5_MOUSE,nan,MOUSE,1.0,,,,1,,,,,,,,,,
+F1M6N6,F1M6N6_RAT,ENSRNOP00000061484,RAT,1.0,,,,,,,,,,1,,,,
+F6YSE0,F6YSE0_XENTR,ENSXETP00000048659,XENTR,1.0,,,,,,,,,1,,,,,
+Q54YG2,ECMA_DICDI,nan,DICDI,1.0,,,,,,,,,,,,,,1
+Q556S1,Q556S1_DICDI,nan,DICDI,1.0,,,,,,,,,1,,,,,
+Q55BT6,Q55BT6_DICDI,nan,DICDI,1.0,,,,,,,,,1,,,,,
+Q55BX0,Q55BX0_DICDI,nan,DICDI,1.0,,,,,,,,,1,,,,,
+Q9S7S3,Q9S7S3_ARATH,nan,ARATH,1.0,,,1,,,,,,,,,,,

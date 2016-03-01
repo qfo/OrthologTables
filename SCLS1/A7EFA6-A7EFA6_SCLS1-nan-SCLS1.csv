@@ -1,0 +1,14 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+A7EFA6,A7EFA6_SCLS1,nan,SCLS1,10.0,1,1,,,,1,1,1,1,1,,1,1,1
+Q7SE84,nan,nan,nan,9.0,1,1,,,,1,,1,1,1,,1,1,1
+P38741,RIM4_YEAST,nan,YEAST,7.0,,,,,,1,1,1,,1,,1,1,1
+B0XZ17,B0XZ17_ASPFC,nan,ASPFC,6.0,,,,,,1,1,1,,1,,1,,1
+Q10277,MSA1_SCHPO,nan,SCHPO,6.0,1,1,,,,1,,1,,1,,,,1
+Q59PG5,Q59PG5_CANAL,nan,CANAL,5.0,,,,,,,1,1,,1,,,1,1
+Q59PI8,Q59PI8_CANAL,nan,CANAL,5.0,,,,,,1,,1,,1,,,1,1
+Q6C5M1,Q6C5M1_YARLI,nan,YARLI,5.0,,,,,,1,1,1,,1,,,,1
+A2E1K7,A2E1K7_TRIVA,nan,TRIVA,1.0,,,,,,,1,,,,,,,
+A9UVQ1,A9UVQ1_MONBE,nan,MONBE,1.0,1,,,,,,,,,,,,,
+H2U5I0,H2U5I0_TAKRU,ENSTRUP00000032196,TAKRU,1.0,,,,,,1,,,,,,,,
+Q4P8R9,PABP_USTMA,nan,USTMA,1.0,,,,,,,,,,,,,1,
+Q7Q9P1,Q7Q9P1_ANOGA,nan,ANOGA,1.0,1,,,,,,,,,,,,,

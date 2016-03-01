@@ -1,0 +1,16 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q89JW1,Q89JW1_BRADU,nan,BRADU,11.0,1,1,1,1,,,1,1,1,1,,1,1,1
+P25396,TEHA_ECOLI,nan,ECOLI,9.0,1,1,,1,,,1,1,1,1,,,1,1
+Q5JDE4,Q5JDE4_THEKO,nan,THEKO,5.0,1,,1,1,,,1,,,,,,1,
+A9RU49,A9RU49_PHYPA,nan,PHYPA,4.0,,,,,,,1,1,1,1,,,,
+Q57996,Y576_METJA,nan,METJA,4.0,,,1,1,,,1,,,,,,1,
+A9TDH3,A9TDH3_PHYPA,nan,PHYPA,3.0,,,,,,,,,1,1,,,1,
+Q9FLV9,SLAH3_ARATH,nan,ARATH,3.0,,,,,,,,,1,1,,1,,
+Q9LD83,SLAC1_ARATH,nan,ARATH,3.0,,,,,,,1,,1,1,,,,
+A8MRV9,SLAH4_ARATH,nan,ARATH,2.0,,,,,,,,,1,1,,,,
+A9RQS2,A9RQS2_PHYPA,nan,PHYPA,2.0,,,,,,,,,1,1,,,,
+A9SH15,A9SH15_PHYPA,nan,PHYPA,2.0,,,,,,,,,1,1,,,,
+Q5E930,SLAH1_ARATH,nan,ARATH,2.0,,,,,,,,,1,1,,,,
+Q9ASQ7,SLAH2_ARATH,nan,ARATH,2.0,,,,,,,,,1,1,,,,
+Q4P299,Q4P299_USTMA,nan,USTMA,1.0,,,,1,,,,,,,,,,
+Q58172,Y762_METJA,nan,METJA,1.0,,,,,,,,,,,,,1,

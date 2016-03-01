@@ -1,0 +1,17 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q74BC2,Q74BC2_GEOSL,nan,GEOSL,8.0,,,,,,,1,1,1,1,1,1,1,1
+P37326,INTS_ECOLI,nan,ECOLI,7.0,,,,,,,,1,1,1,1,1,1,1
+P76542,INTZ_ECOLI,nan,ECOLI,7.0,,,,,,,,1,1,1,1,1,1,1
+P32053,INTA_ECOLI,nan,ECOLI,6.0,,,,,,,1,1,1,,1,1,,1
+Q89JV0,Q89JV0_BRADU,nan,BRADU,6.0,,,,,,,,1,1,1,1,1,1,
+A6VC70,A6VC70_PSEA7,nan,PSEA7,5.0,,,,,,,,1,1,1,1,,,1
+P39347,INTB_ECOLI,nan,ECOLI,5.0,,,,,,,,1,1,,1,1,,1
+nan,nan,ENSBTAP00000046117,BOVIN,5.0,,,,,,,,,1,1,1,,1,1
+nan,nan,ENSBTAP00000052149,BOVIN,5.0,,,,,,,1,,1,1,1,,,1
+nan,nan,ENSBTAP00000047447,BOVIN,3.0,,,,,,,,,1,1,,,,1
+A6V7R6,A6V7R6_PSEA7,nan,PSEA7,2.0,,,,,,,,,,,1,,1,
+Q89BH8,Q89BH8_BRADU,nan,BRADU,2.0,,,,,,,1,,,,1,,,
+A6VBP4,A6VBP4_PSEA7,nan,PSEA7,1.0,,,,,,,,,,,1,,,
+P71298,INTF_ECOLI,nan,ECOLI,1.0,,,,,,,,,,,1,,,
+Q89E70,Q89E70_BRADU,nan,BRADU,1.0,,,,,,,,,,,1,,,
+Q8RF80,Q8RF80_FUSNN,nan,FUSNN,1.0,,,,,,,,,,,1,,,

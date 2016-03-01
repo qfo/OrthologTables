@@ -1,0 +1,5 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+P37180,HYBB_ECOLI,nan,ECOLI,13.0,1,1,1,1,1,,1,1,1,1,1,1,1,1
+Q74F25,Q74F25_GEOSL,nan,GEOSL,12.0,1,1,1,1,1,,1,1,1,,1,1,1,1
+B5YFP6,B5YFP6_THEYD,nan,THEYD,10.0,1,1,1,1,1,,1,1,,1,1,,,1
+Q74F30,Q74F30_GEOSL,nan,GEOSL,2.0,,,,,,,,,,1,1,,,

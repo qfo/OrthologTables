@@ -1,0 +1,14 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q74F74,Q74F74_GEOSL,nan,GEOSL,11.0,1,1,1,1,,,1,1,1,1,,1,1,1
+Q3KM72,Q3KM72_CHLTA,nan,CHLTA,10.0,1,1,1,1,,,1,1,1,1,,,1,1
+A6VBD8,A6VBD8_PSEA7,nan,PSEA7,7.0,1,,,1,,,1,1,,1,,,1,1
+P69829,PTSN_ECOLI,nan,ECOLI,6.0,1,,,,,,1,1,,1,,1,1,
+P30335,PTSN_BRADU,nan,BRADU,5.0,,,,,,,1,1,,1,,1,1,
+Q7UMU3,Q7UMU3_RHOBA,nan,RHOBA,3.0,1,,,,,,1,,,,,1,,
+P69820,ULAC_ECOLI,nan,ECOLI,2.0,,,,,,,,,,,,1,1,
+Q8F8C5,Q8F8C5_LEPIN,nan,LEPIN,2.0,,,,,,,1,,,,,1,,
+P32155,PTFA_ECOLI,nan,ECOLI,1.0,,,,,,,,,,,,1,,
+P71012,PTF3A_BACSU,nan,BACSU,1.0,,,,,,,1,,,,,,,
+Q7UR99,Q7UR99_RHOBA,nan,RHOBA,1.0,,,,,,,,,1,,,,,
+Q8RDM2,Q8RDM2_FUSNN,nan,FUSNN,1.0,,,,,,,1,,,,,,,
+Q9KYU9,Q9KYU9_STRCO,nan,STRCO,1.0,,,,,,,1,,,,,,,

@@ -1,0 +1,13 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+A7T1A3,A7T1A3_NEMVE,nan,NEMVE,4.0,,,1,1,,,,,,,,1,1,
+C3Z618,C3Z618_BRAFL,nan,BRAFL,2.0,,,1,1,,,,,,,,,,
+P38894,FLO5_YEAST,nan,YEAST,2.0,,,,,,,,,,,,1,1,
+nan,nan,ENSBTAP00000047646,BOVIN,2.0,,,,,,,,,,,,1,1,
+A2RQR3,A2RQR3_DANRE,nan,DANRE,1.0,,,,,,,,,,,,1,,
+A9WIX6,A9WIX6_CHLAA,nan,CHLAA,1.0,,,,,,,,,,,,,1,
+F7BJQ0,F7BJQ0_MACMU,ENSMMUP00000041131,MACMU,1.0,,,,,,,,,,,,1,,
+Q5HY64,FA47C_HUMAN,nan,HUMAN,1.0,,,,,,,,,,,,1,,
+Q7S5T1,Q7S5T1_NEUCR,nan,NEUCR,1.0,,,,,,,,,,,,1,,
+nan,nan,ENSRNOP00000041465,RAT,1.0,,,,,,,,,,,,1,,
+nan,nan,ENSRNOP00000047090,RAT,1.0,,,,,,,,,,,,1,,
+nan,nan,ENSRNOP00000057999,RAT,1.0,,,,,,,,,,,,1,,

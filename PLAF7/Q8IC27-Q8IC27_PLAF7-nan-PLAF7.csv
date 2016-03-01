@@ -1,0 +1,13 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q8IC27,Q8IC27_PLAF7,nan,PLAF7,6.0,1,1,,1,,1,,,,,,,1,1
+Q9VUD8,Q9VUD8_DROME,nan,DROME,2.0,,,,,,1,,,,,,,,1
+nan,nan,ENSPTRP00000022768,PANTR,2.0,1,1,,,,,,,,,,,,
+B0YDS6,B0YDS6_ASPFC,nan,ASPFC,1.0,,,,,,1,,,,,,,,
+B7PYF9,B7PYF9_IXOSC,nan,IXOSC,1.0,,,,,,1,,,,,,,,
+C3XZR1,C3XZR1_BRAFL,nan,BRAFL,1.0,,,,,,1,,,,,,,,
+D3ZJG0,nan,nan,nan,1.0,,,,,,,,,,,,,1,
+F1M5X1,F1M5X1_RAT,ENSRNOP00000007888,RAT,1.0,1,,,,,,,,,,,,,
+F6SHK6,F6SHK6_MONDO,ENSMODP00000036034,MONDO,1.0,,,,1,,,,,,,,,,
+F7B4A7,F7B4A7_MACMU,ENSMMUP00000037928,MACMU,1.0,,,,1,,,,,,,,,,
+O54988,SLK_MOUSE,nan,MOUSE,1.0,,,,,,,,,,,,,1,
+P38080,AKL1_YEAST,nan,YEAST,1.0,,,,,,,,,,,,,1,

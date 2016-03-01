@@ -1,0 +1,17 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q5AF61,Q5AF61_CANAL,nan,CANAL,11.0,1,1,,,1,1,1,1,1,1,1,1,,1
+A7EW46,A7EW46_SCLS1,nan,SCLS1,6.0,1,1,,,,1,,1,,,,1,,1
+B0Y7G8,B0Y7G8_ASPFC,nan,ASPFC,6.0,1,1,,,,1,1,1,,,,,,1
+P32862,RGT1_YEAST,nan,YEAST,6.0,,,,,,1,1,1,1,,,1,,1
+O59780,YCN3_SCHPO,nan,SCHPO,3.0,,,,,,1,,1,,,,,,1
+P38073,EDS1_YEAST,nan,YEAST,2.0,,,,,,,,,1,,,1,,
+Q12151,UPC2_YEAST,nan,YEAST,2.0,,,,,1,,,,,,1,,,
+Q4P8A7,Q4P8A7_USTMA,nan,USTMA,2.0,,,,,1,,,,,,1,,,
+Q7S6K8,Q7S6K8_NEUCR,nan,NEUCR,2.0,,,,,,,,,,,,1,,1
+Q7SB00,Q7SB00_NEUCR,nan,NEUCR,2.0,,,,,1,,,,,,1,,,
+A7F0M7,A7F0M7_SCLS1,nan,SCLS1,1.0,,,,,,,1,,,,,,,
+Q4P0V7,Q4P0V7_USTMA,nan,USTMA,1.0,,,,,,,,,,,,1,,
+Q4P8F0,Q4P8F0_USTMA,nan,USTMA,1.0,1,,,,,,,,,,,,,
+Q54FH5,Q54FH5_DICDI,nan,DICDI,1.0,,,,,,,,,,1,,,,
+Q5KK82,Q5KK82_CRYNJ,nan,CRYNJ,1.0,,,,,,,1,,,,,,,
+Q9HE65,Q9HE65_NEUCS,nan,NEUCR,1.0,,,,,,,,,,,1,,,

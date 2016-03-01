@@ -1,0 +1,14 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+C4A0M8,C4A0M8_BRAFL,nan,BRAFL,8.0,1,,,1,,1,1,1,1,1,,,,1
+A7SL00,A7SL00_NEMVE,nan,NEMVE,3.0,,,,,,1,1,1,,,,,,
+E1C9U2,nan,nan,nan,3.0,,,,,,1,1,1,,,,,,
+A7T0L5,A7T0L5_NEMVE,nan,NEMVE,2.0,1,,,,,,,,,1,,,,
+nan,nan,ENSXETP00000047191,XENTR,2.0,,,,,,1,,1,,,,,,
+A7SHJ3,A7SHJ3_NEMVE,nan,NEMVE,1.0,,,,,,,,,,,,,,1
+A7SJI8,A7SJI8_NEMVE,nan,NEMVE,1.0,,,,,,,,,1,,,,,
+F6PVJ5,F6PVJ5_ORNAN,ENSOANP00000009023,ORNAN,1.0,,,,,,1,,,,,,,,
+H2QL49,H2QL49_PANTR,ENSPTRP00000024069,PANTR,1.0,,,,1,,,,,,,,,,
+nan,nan,ENSBTAP00000047646,BOVIN,1.0,,,,1,,,,,,,,,,
+nan,nan,ENSRNOP00000053597,RAT,1.0,,,,,,,,,1,,,,,
+nan,nan,ENSXETP00000001932,XENTR,1.0,,,,,,,,,1,,,,,
+nan,nan,ENSXETP00000021061,XENTR,1.0,,,,,,,,,,1,,,,

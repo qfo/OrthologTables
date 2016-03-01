@@ -1,0 +1,14 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+A2ETN3,A2ETN3_TRIVA,nan,TRIVA,12.0,1,1,1,1,1,1,1,1,1,1,1,,,1
+Q89T89,Q89T89_BRADU,nan,BRADU,11.0,1,1,1,1,1,,1,1,1,1,1,,,1
+Q8A575,Q8A575_BACTN,nan,BACTN,11.0,1,1,1,1,1,,1,1,1,1,1,,,1
+O33362,O33362_MYCTU,nan,MYCTU,4.0,1,,,1,,,1,,1,,,,,
+O16467,O16467_CAEEL,nan,CAEEL,2.0,,,,,,1,1,,,,,,,
+Q89L60,Q89L60_BRADU,nan,BRADU,2.0,,,,,,,,,,1,1,,,
+Q9L2C6,Q9L2C6_STRCO,nan,STRCO,2.0,,,,,,,1,,1,,,,,
+Q9WX28,Q9WX28_STRCO,nan,STRCO,2.0,,,,1,,,,,1,,,,,
+Q7NIJ7,Q7NIJ7_GLOVI,nan,GLOVI,1.0,1,,,,,,,,,,,,,
+Q7UMB9,Q7UMB9_RHOBA,nan,RHOBA,1.0,,,,,,,,,1,,,,,
+Q86L41,Q86L41_DICDI,nan,DICDI,1.0,,,,,,1,,,,,,,,
+Q89SN3,Q89SN3_BRADU,nan,BRADU,1.0,,,,,,,,,,,1,,,
+Q96UV1,Q96UV1_USTMD,nan,USTMA,1.0,1,,,,,,,,,,,,,

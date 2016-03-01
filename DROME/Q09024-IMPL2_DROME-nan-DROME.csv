@@ -1,0 +1,16 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q09024,IMPL2_DROME,nan,DROME,11.0,1,1,1,1,,1,1,1,1,1,,1,,1
+Q7QBJ8,Q7QBJ8_ANOGA,nan,ANOGA,11.0,1,1,1,1,,1,1,1,1,1,,1,,1
+Q17858,nan,nan,nan,7.0,,,1,1,,1,,1,1,,,1,,1
+B7Q6L5,B7Q6L5_IXOSC,nan,IXOSC,6.0,,,,,,1,1,1,,1,,1,,1
+Q09970,nan,nan,nan,3.0,,,,,,,,1,,,,1,,1
+Q20339,nan,nan,nan,3.0,,,,,,,,1,,1,,1,,
+B0F6R0,B0F6R0_DANRE,nan,DANRE,1.0,,,,,,,,,,,,1,,
+B7PDD1,B7PDD1_IXOSC,nan,IXOSC,1.0,,,,,,,,,,,,1,,
+E1C4V8,nan,nan,nan,1.0,,,,,,,,,,,,1,,
+F7BNZ0,F7BNZ0_CIOIN,ENSCINP00000024165,CIOIN,1.0,1,,,,,,,,,,,,,
+O88792,JAM1_MOUSE,nan,MOUSE,1.0,,,,,,,,,,,,1,,
+P18572,BASI_MOUSE,nan,MOUSE,1.0,,,,,,,,,,,,1,,
+Q5W433,Q5W433_DANRE,nan,DANRE,1.0,,,,,,,,,,,,1,,
+Q9JHY1,JAM1_RAT,nan,RAT,1.0,,,,,,,,,,,,1,,
+Q9Y639,NPTN_HUMAN,nan,HUMAN,1.0,,,,,,,,,,,,1,,

@@ -1,0 +1,13 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+nan,nan,ENSCINP00000005468,CIOIN,11.0,1,,1,1,,1,1,1,1,1,,1,1,1
+A7SH96,A7SH96_NEMVE,nan,NEMVE,5.0,,,,,,1,,1,,1,,1,,1
+A7RUS2,A7RUS2_NEMVE,nan,NEMVE,2.0,,,,,,,1,,,1,,,,
+A7SMM2,A7SMM2_NEMVE,nan,NEMVE,2.0,1,,,,,,,,1,,,,,
+A7SBT9,A7SBT9_NEMVE,nan,NEMVE,1.0,,,1,,,,,,,,,,,
+A7SH95,A7SH95_NEMVE,nan,NEMVE,1.0,,,,,,,,1,,,,,,
+C3ZFT6,C3ZFT6_BRAFL,nan,BRAFL,1.0,,,,,,1,,,,,,,,
+D3ZAY6,nan,nan,nan,1.0,,,,1,,,,,,,,,,
+F6Y0A8,F6Y0A8_MONDO,ENSMODP00000033224,MONDO,1.0,,,,1,,,,,,,,,,
+Q54BY8,Q54BY8_DICDI,nan,DICDI,1.0,,,,,,,,,,,,,1,
+Q966I7,Q966I7_CAEEL,nan,CAEEL,1.0,,,,,,,,,,,,1,,
+nan,nan,ENSXETP00000043311,XENTR,1.0,,,,,,,1,,,,,,,

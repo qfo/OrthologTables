@@ -1,0 +1,12 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q02685,RMI1_YEAST,nan,YEAST,3.0,,,,,,1,,,1,,,1,,
+Q10160,RMI1_SCHPO,nan,SCHPO,3.0,,,,,,1,,,1,,,1,,
+Q7S1X6,Q7S1X6_NEUCR,nan,NEUCR,3.0,,,,,,1,,,1,,,1,,
+A7F3L9,A7F3L9_SCLS1,nan,SCLS1,2.0,,,,,,1,,,1,,,,,
+Q0U0Z4,Q0U0Z4_PHANO,nan,PHANO,2.0,,,,,,1,,,1,,,,,
+Q5A5S9,Q5A5S9_CANAL,nan,CANAL,2.0,,,,,,1,,,,,,1,,
+A7SWP6,A7SWP6_NEMVE,nan,NEMVE,1.0,,,,,,,,,,,,1,,
+A9V7N9,A9V7N9_MONBE,nan,MONBE,1.0,,,,,,,,,,,,1,,
+B0XYB3,B0XYB3_ASPFC,nan,ASPFC,1.0,,,,,,,,,1,,,,,
+F6T6X1,F6T6X1_CIOIN,ENSCINP00000003758,CIOIN,1.0,,,,,,,,,,,,1,,
+Q5TN18,Q5TN18_ANOGA,nan,ANOGA,1.0,,,,,,,,,,,,1,,

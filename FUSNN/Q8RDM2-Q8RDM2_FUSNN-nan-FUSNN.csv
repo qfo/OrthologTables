@@ -1,0 +1,12 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q8RDM2,Q8RDM2_FUSNN,nan,FUSNN,11.0,1,1,1,1,,,1,1,1,1,,1,1,1
+Q7UMU3,Q7UMU3_RHOBA,nan,RHOBA,10.0,1,1,,1,,,1,1,1,1,,1,1,1
+Q8F8C5,Q8F8C5_LEPIN,nan,LEPIN,10.0,1,,1,1,,,1,1,1,1,,1,1,1
+Q3KM71,Q3KM71_CHLTA,nan,CHLTA,9.0,1,1,,1,,,1,1,1,1,,,1,1
+P30335,PTSN_BRADU,nan,BRADU,5.0,1,,,1,,,,1,1,,,,,1
+P69829,PTSN_ECOLI,nan,ECOLI,5.0,1,,,1,,,1,,1,,,,,1
+P32155,PTFA_ECOLI,nan,ECOLI,3.0,,,,,,,,,,1,,1,1,
+A6VBD8,A6VBD8_PSEA7,nan,PSEA7,2.0,1,,,,,,,,1,,,,,
+C0H3V2,PTMA_BACSU,nan,BACSU,2.0,1,,,,,,,,1,,,,,
+O31645,PTN3B_BACSU,nan,BACSU,1.0,,,,,,,,,,,,,,1
+Q74F74,Q74F74_GEOSL,nan,GEOSL,1.0,,,,,,,1,,,,,,,

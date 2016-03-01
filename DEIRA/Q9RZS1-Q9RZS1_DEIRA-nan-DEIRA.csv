@@ -1,0 +1,17 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q9RZS1,Q9RZS1_DEIRA,nan,DEIRA,9.0,1,1,,1,,,1,,1,1,,1,1,1
+P31126,YDEE_ECOLI,nan,ECOLI,5.0,,,,1,,,1,,1,1,,,1,
+P54559,YQJV_BACSU,nan,BACSU,5.0,1,1,,,,,,,1,1,,,,1
+A6VC15,A6VC15_PSEA7,nan,PSEA7,2.0,,,,,,,,,,,,1,1,
+Q7NKD3,Q7NKD3_GLOVI,nan,GLOVI,2.0,,,,,,,1,,,1,,,,
+Q86AR0,Q86AR0_DICDI,nan,DICDI,2.0,,,,,,,,,,,,1,1,
+A9U886,A9U886_PHYPA,nan,PHYPA,1.0,,,,,,,,,,1,,,,
+B8DZC7,B8DZC7_DICTD,nan,DICTD,1.0,,,,,,,,,,,,1,,
+F6WLG5,F6WLG5_CIOIN,ENSCINP00000022264,CIOIN,1.0,,,,,,,,,,,,1,,
+O34546,YTTB_BACSU,nan,BACSU,1.0,,,,,,,1,,,,,,,
+O34929,YFKF_BACSU,nan,BACSU,1.0,,,,,,,,,,,,1,,
+Q7UTR7,Q7UTR7_RHOBA,nan,RHOBA,1.0,,,,,,,,,,,,1,,
+Q97UY6,Q97UY6_SULSO,nan,SULSO,1.0,,,,,,,,,,,,1,,
+Q97XG8,Q97XG8_SULSO,nan,SULSO,1.0,,,,,,,,,,,,1,,
+Q9FCG1,Q9FCG1_STRCO,nan,STRCO,1.0,,,,,,,,,,,,,,1
+Q9KYE9,Q9KYE9_STRCO,nan,STRCO,1.0,,,,,,,,,,1,,,,

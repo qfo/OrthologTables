@@ -1,0 +1,13 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q89VZ8,Q89VZ8_BRADU,nan,BRADU,13.0,1,1,1,1,1,,1,1,1,1,1,1,1,1
+O07914,O07914_MYCTO,nan,MYCTU,12.0,1,1,1,1,1,,1,1,1,1,1,,1,1
+Q9JN87,Q9JN87_STRCH,nan,STRCO,12.0,1,1,1,1,1,,1,1,1,1,1,,1,1
+Q58929,MER_METJA,nan,METJA,2.0,,,,,,,1,1,,,,,,
+Q97Y17,Q97Y17_SULSO,nan,SULSO,2.0,,,,,,,,,,1,1,,,
+nan,nan,ENSXETP00000050758,XENTR,2.0,,,,,,,,,,1,1,,,
+A6V4Y0,A6V4Y0_PSEA7,nan,PSEA7,1.0,,,,,,,,,,,,1,,
+A9WJ31,A9WJ31_CHLAA,nan,CHLAA,1.0,,,,,,,,,,,,1,,
+B0R4G5,B0R4G5_HALS3,nan,HALS3,1.0,,,,,,,,,,1,,,,
+B0R5E2,B0R5E2_HALS3,nan,HALS3,1.0,,,,,,,1,,,,,,,
+Q8TJP7,MER_METAC,nan,METAC,1.0,,,,,,,1,,,,,,,
+Q9ZBY1,Q9ZBY1_STRCO,nan,STRCO,1.0,,,,,,,,,,,,,1,

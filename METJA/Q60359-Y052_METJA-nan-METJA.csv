@@ -1,0 +1,11 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q60359,Y052_METJA,nan,METJA,8.0,1,,,,1,,1,1,,1,1,1,,1
+Q74DX5,Q74DX5_GEOSL,nan,GEOSL,7.0,,,,,1,,1,1,,1,1,1,,1
+P33667,SELU_ECOLI,nan,ECOLI,6.0,,,,,1,,1,1,,1,1,,,1
+A6V7E9,SELU_PSEA7,nan,PSEA7,5.0,,,,,1,,1,,,1,1,,,1
+C4QC80,nan,nan,nan,2.0,,,,,,,1,1,,,,,,
+A9SAH6,A9SAH6_PHYPA,nan,PHYPA,1.0,,,,,,,1,,,,,,,
+E9PY03,E9PY03_MOUSE,ENSMUSP00000132771,MOUSE,1.0,1,,,,,,,,,,,,,
+Q7NFW2,Q7NFW2_GLOVI,nan,GLOVI,1.0,1,,,,,,,,,,,,,
+Q89FK8,Q89FK8_BRADU,nan,BRADU,1.0,1,,,,,,,,,,,,,
+Q8TSP9,Q8TSP9_METAC,nan,METAC,1.0,,,,,,,1,,,,,,,

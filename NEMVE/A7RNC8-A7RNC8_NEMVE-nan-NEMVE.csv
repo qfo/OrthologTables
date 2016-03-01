@@ -1,0 +1,17 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+A7RNC8,A7RNC8_NEMVE,nan,NEMVE,9.0,1,1,,,,1,1,1,,1,,1,1,1
+Q6AYM6,Q6AYM6_RAT,nan,RAT,7.0,1,1,,,,1,1,1,,,,,1,1
+Q149I8,Q149I8_MOUSE,nan,MOUSE,5.0,,,,,,1,1,1,,,,,1,1
+F1PYX6,F1PYX6_CANFA,ENSCAFP00000011589,CANFA,4.0,,,,,,1,1,1,,,,,,1
+P14606,CIGA_DICDI,nan,DICDI,3.0,1,,,,,1,1,,,,,,,
+A9V1H8,A9V1H8_MONBE,nan,MONBE,2.0,1,1,,,,,,,,,,,,
+C3ZT80,C3ZT80_BRAFL,nan,BRAFL,2.0,1,1,,,,,,,,,,,,
+A2AW96,A2AW96_DANRE,nan,DANRE,1.0,,1,,,,,,,,,,,,
+C4Q1H9,nan,nan,nan,1.0,,,,,,1,,,,,,,,
+Q8IEJ5,Q8IEJ5_PLAF7,nan,PLAF7,1.0,,,,,,,,,,1,,,,
+Q8IJI5,Q8IJI5_PLAF7,nan,PLAF7,1.0,1,,,,,,,,,,,,,
+Q9T069,Q9T069_ARATH,nan,ARATH,1.0,,,,,,,,,,,,1,,
+Q9TYL3,Q9TYL3_CAEEL,nan,CAEEL,1.0,,,,,,,1,,,,,,,
+Q9ZU28,Q9ZU28_ARATH,nan,ARATH,1.0,,,,,,1,,,,,,,,
+nan,nan,ENSCAFP00000031403,CANFA,1.0,,,,,,,,,,,,1,,
+nan,nan,ENSXETP00000005469,XENTR,1.0,,,,,,,,,,,,1,,

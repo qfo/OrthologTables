@@ -1,0 +1,17 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+A6V5H7,A6V5H7_PSEA7,nan,PSEA7,13.0,1,1,1,1,1,,1,1,1,1,1,1,1,1
+P76115,YNCD_ECOLI,nan,ECOLI,13.0,1,1,1,1,1,,1,1,1,1,1,1,1,1
+Q8RFD8,Q8RFD8_FUSNN,nan,FUSNN,5.0,,,1,1,,,,1,1,,,,,1
+Q89H12,Q89H12_BRADU,nan,BRADU,2.0,,,,,,,,,1,,,,,1
+Q8A957,Q8A957_BACTN,nan,BACTN,2.0,,,,,,,,,,,,1,1,
+Q8RF34,Q8RF34_FUSNN,nan,FUSNN,2.0,,,,,,,1,,1,,,,,
+Q8RF85,Q8RF85_FUSNN,nan,FUSNN,2.0,,,,,,,,,1,,,1,,
+Q8RHN9,Q8RHN9_FUSNN,nan,FUSNN,2.0,,,,,,,,,1,1,,,,
+Q7NDD9,Q7NDD9_GLOVI,nan,GLOVI,1.0,,,,,,,,,1,,,,,
+Q89KI5,Q89KI5_BRADU,nan,BRADU,1.0,,,,,,,,,,,1,,,
+Q89KY2,Q89KY2_BRADU,nan,BRADU,1.0,,,,,,,,,,,,1,,
+Q89LN9,Q89LN9_BRADU,nan,BRADU,1.0,,,,,,,,,,,1,,,
+Q8A8I2,Q8A8I2_BACTN,nan,BACTN,1.0,,,,,,,,,,,1,,,
+Q8AAG9,Q8AAG9_BACTN,nan,BACTN,1.0,,,,,,,,,1,,,,,
+Q8RG20,Q8RG20_FUSNN,nan,FUSNN,1.0,,,,,,,,,1,,,,,
+nan,nan,ENSXETP00000037109,XENTR,1.0,,,,,,,,,,,1,,,

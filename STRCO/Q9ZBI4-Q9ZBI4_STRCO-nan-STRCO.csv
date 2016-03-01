@@ -1,0 +1,12 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+P0A948,RIMJ_ECOLI,nan,ECOLI,7.0,1,,,,,,1,1,1,1,,,1,1
+Q9ZBI4,Q9ZBI4_STRCO,nan,STRCO,7.0,1,,,,,,1,1,1,1,,,1,1
+O05578,O05578_MYCTU,nan,MYCTU,6.0,1,,,,,,,1,1,1,,,1,1
+Q7NIF3,Q7NIF3_GLOVI,nan,GLOVI,6.0,,,,,,,1,1,1,1,,,1,1
+Q89V73,Q89V73_BRADU,nan,BRADU,4.0,,,,,,,,,1,1,,,1,1
+O31633,YJCK_BACSU,nan,BACSU,3.0,,,,,,,,,,1,,,1,1
+B0R3H0,B0R3H0_HALS3,nan,HALS3,1.0,,,,,,,,,,,,,1,
+B0R703,B0R703_HALS3,nan,HALS3,1.0,,,,,,,,,,,,,1,
+B0R7L5,B0R7L5_HALS3,nan,HALS3,1.0,,,,,,,,,,,,,1,
+Q5JFS7,Q5JFS7_THEKO,nan,THEKO,1.0,,,,,,,,,,,,,1,
+Q872F5,Q872F5_NEUCS,nan,NEUCR,1.0,1,,,,,,,,,,,,,

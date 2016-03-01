@@ -1,0 +1,15 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+A9S2N1,A9S2N1_PHYPA,nan,PHYPA,8.0,,,1,,,1,1,1,1,1,1,,,1
+A9VC84,A9VC84_MONBE,nan,MONBE,5.0,,,,,,1,,1,1,,1,,,1
+O64517,MCA4_ARATH,nan,ARATH,5.0,,,,,,1,,1,1,,1,,,1
+O64518,MCA5_ARATH,nan,ARATH,5.0,,,1,,,,,1,1,,1,,,1
+Q6XPT5,MCA7_ARATH,nan,ARATH,5.0,,,,,,,,1,1,1,1,,,1
+O64519,MCA6_ARATH,nan,ARATH,4.0,,,,,,,,1,1,,1,,,1
+Q9FYE1,MCA9_ARATH,nan,ARATH,2.0,,,,,,,,,1,,1,,,
+Q9SA41,MCA8_ARATH,nan,ARATH,2.0,,,,,,,,,1,,1,,,
+A2F3J1,A2F3J1_TRIVA,nan,TRIVA,1.0,,,,,,1,,,,,,,,
+A2G182,A2G182_TRIVA,nan,TRIVA,1.0,,,,,,,1,,,,,,,
+B8CEU9,B8CEU9_THAPS,nan,THAPS,1.0,,,,,,,,,,1,,,,
+Q0V657,Q0V657_PHANO,nan,PHANO,1.0,,,,,,,,,1,,,,,
+Q74F93,Q74F93_GEOSL,nan,GEOSL,1.0,,,,,,,,,,1,,,,
+Q7NPG1,Q7NPG1_GLOVI,nan,GLOVI,1.0,,,,,,,,,,,1,,,

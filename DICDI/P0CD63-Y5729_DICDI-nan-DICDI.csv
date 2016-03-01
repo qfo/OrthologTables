@@ -1,0 +1,16 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+P0CD63,Y5729_DICDI,nan,DICDI,5.0,1,1,,,,,,,1,1,,,,1
+Q4QDP6,Q4QDP6_LEIMA,nan,LEIMA,2.0,1,1,,,,,,,,,,,,
+A2DSI2,A2DSI2_TRIVA,nan,TRIVA,1.0,,,,,,,,,,,,,,1
+A2FGC0,A2FGC0_TRIVA,nan,TRIVA,1.0,,,,,,,,,,,,,,1
+A7E9G9,A7E9G9_SCLS1,nan,SCLS1,1.0,1,,,,,,,,,,,,,
+A9V725,A9V725_MONBE,nan,MONBE,1.0,,,,,,,,,,,,,,1
+C4QHP0,nan,nan,nan,1.0,1,,,,,,,,,,,,,
+H2SL09,H2SL09_TAKRU,ENSTRUP00000013094,TAKRU,1.0,1,,,,,,,,,,,,,
+Q09446,DNJ5_CAEEL,nan,CAEEL,1.0,1,,,,,,,,,,,,,
+Q59Y46,MFG1_CANAL,nan,CANAL,1.0,,,,,,,,,,1,,,,
+Q5KH70,Q5KH70_CRYNJ,nan,CRYNJ,1.0,,,,,,,,,1,,,,,
+Q5U0V4,Q5U0V4_DROME,nan,DROME,1.0,,,,,,,,,,,,,,1
+Q7S9D3,nan,nan,nan,1.0,1,,,,,,,,,,,,,
+Q9U2L4,Q9U2L4_CAEEL,nan,CAEEL,1.0,,,,,,,,,,,,,,1
+Q9W475,Q9W475_DROME,nan,DROME,1.0,,1,,,,,,,,,,,,

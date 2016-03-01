@@ -1,0 +1,12 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+P34111,TFC3_YEAST,nan,YEAST,11.0,1,1,,1,,1,1,1,1,1,,1,1,1
+Q6CB35,Q6CB35_YARLI,nan,YARLI,10.0,1,1,,1,,1,1,1,1,1,,1,1,
+Q9UST7,SFC3_SCHPO,nan,SCHPO,8.0,1,1,,,,1,1,1,1,1,,,1,
+Q5A656,Q5A656_CANAL,nan,CANAL,6.0,1,,,,,,1,,,1,,1,1,1
+Q5A658,Q5A658_CANAL,nan,CANAL,5.0,,,,,,1,,1,,1,,1,1,
+B0XV75,B0XV75_ASPFC,nan,ASPFC,3.0,1,,,,,1,1,,,,,,,
+A7F242,A7F242_SCLS1,nan,SCLS1,1.0,,,,,,,,,,,,1,,
+B0XV76,B0XV76_ASPFC,nan,ASPFC,1.0,,,,,,,,,1,,,,,
+C3ZUN7,C3ZUN7_BRAFL,nan,BRAFL,1.0,,,,,,1,,,,,,,,
+Q0TWY2,Q0TWY2_PHANO,nan,PHANO,1.0,,,,,,1,,,,,,,,
+Q0TWY3,Q0TWY3_PHANO,nan,PHANO,1.0,,,,,,,,,1,,,,,

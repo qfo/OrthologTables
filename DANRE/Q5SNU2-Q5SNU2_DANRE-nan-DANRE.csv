@@ -1,0 +1,16 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q5SNU2,Q5SNU2_DANRE,nan,DANRE,4.0,,,1,1,,,,,,,,,1,1
+A7RX98,A7RX98_NEMVE,nan,NEMVE,1.0,,,,,,,,,,,,,1,
+A8B669,A8B669_GIAIC,nan,GIAIC,1.0,,,1,,,,,,,,,,,
+A9RQH0,A9RQH0_PHYPA,nan,PHYPA,1.0,,,,,,,,,,,,,,1
+F7CM70,F7CM70_MONDO,ENSMODP00000028915,MONDO,1.0,,,,,,,,,,,,,1,
+P06245,KAPB_YEAST,nan,YEAST,1.0,,,,,,,,,,,,,1,
+P19525,E2AK2_HUMAN,nan,HUMAN,1.0,,,,,,,,,,,,,1,
+Q0WPH8,NEK5_ARATH,nan,ARATH,1.0,,,,,,,,,,,,,,1
+Q54C38,Y9988_DICDI,nan,DICDI,1.0,,,,,,,,,,,,,,1
+Q7UFV8,Q7UFV8_RHOBA,nan,RHOBA,1.0,,,,1,,,,,,,,,,
+Q8RX66,NEK3_ARATH,nan,ARATH,1.0,,,,,,,,,,,,,,1
+Q8RXT4,NEK4_ARATH,nan,ARATH,1.0,,,,,,,,,,,,,,1
+Q9CAU7,NEK2_ARATH,nan,ARATH,1.0,,,,,,,,,,,,,,1
+Q9LT35,NEK6_ARATH,nan,ARATH,1.0,,,,,,,,,,,,,,1
+Q9SLI2,NEK1_ARATH,nan,ARATH,1.0,,,,,,,,,,,,,,1

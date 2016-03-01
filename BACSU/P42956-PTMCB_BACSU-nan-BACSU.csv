@@ -1,0 +1,5 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+P00550,PTM3C_ECOLI,nan,ECOLI,13.0,1,1,1,1,1,,1,1,1,1,1,1,1,1
+P42956,PTMCB_BACSU,nan,BACSU,13.0,1,1,1,1,1,,1,1,1,1,1,1,1,1
+A9U7I0,A9U7I0_PHYPA,nan,PHYPA,6.0,,,,,1,,1,1,,1,1,,,1
+P69826,PTMCB_ECOLI,nan,ECOLI,3.0,,,,,,,,,,1,1,1,,

@@ -1,0 +1,16 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+O45992,O45992_CAEEL,nan,CAEEL,6.0,,,,,,1,1,1,,,,1,1,1
+A7SJD4,A7SJD4_NEMVE,nan,NEMVE,3.0,,,,,,1,,1,,,,,,1
+C3YRC5,C3YRC5_BRAFL,nan,BRAFL,3.0,,,,,,,1,1,,,,1,,
+A7RN28,A7RN28_NEMVE,nan,NEMVE,2.0,,,,,,,,1,,,,1,,
+A7RN29,A7RN29_NEMVE,nan,NEMVE,2.0,,,,,,,,1,,,,1,,
+C3YRC4,C3YRC4_BRAFL,nan,BRAFL,2.0,,,,,,,,1,,,,1,,
+Q4PLX3,Q4PLX3_DANRE,nan,DANRE,2.0,,,,,,,,,,,,1,1,
+Q61488,DHH_MOUSE,nan,MOUSE,2.0,,,,,,,,,,,,1,1,
+A7RW45,A7RW45_NEMVE,nan,NEMVE,1.0,,,,,,,,1,,,,,,
+A7T0C8,A7T0C8_NEMVE,nan,NEMVE,1.0,,,,,,,,1,,,,,,
+A8DWA8,A8DWA8_NEMVE,nan,NEMVE,1.0,,,,,,,,,,,,1,,
+C3ZGW9,C3ZGW9_BRAFL,nan,BRAFL,1.0,,,,,,,,1,,,,,,
+F6XEQ0,F6XEQ0_MONDO,ENSMODP00000019154,MONDO,1.0,,,,,,1,,,,,,,,
+O43323,DHH_HUMAN,nan,HUMAN,1.0,,,,,,,,,,,,,1,
+Q02936,HH_DROME,nan,DROME,1.0,,,,,,,,,,,,,1,

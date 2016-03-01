@@ -1,0 +1,16 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q5AJE4,Q5AJE4_CANAL,nan,CANAL,11.0,1,,1,1,,1,1,1,1,1,,1,1,1
+Q6CEX1,Q6CEX1_YARLI,nan,YARLI,11.0,1,,1,1,,1,1,1,1,1,,1,1,1
+A7ERZ4,A7ERZ4_SCLS1,nan,SCLS1,5.0,1,,,,,1,1,,1,,,1,,
+Q08750,MUM3_YEAST,nan,YEAST,2.0,,,,,,,,,1,,,1,,
+Q55CZ2,Q55CZ2_DICDI,nan,DICDI,2.0,,,,,,,,,,,,1,1,
+A9V7P0,A9V7P0_MONBE,nan,MONBE,1.0,,,,,,,1,,,,,,,
+D3ZFF4,D3ZFF4_RAT,nan,RAT,1.0,,,,,,,,,,,,1,,
+F6VIA4,F6VIA4_MONDO,ENSMODP00000019371,MONDO,1.0,,,,,,,,,,,,1,,
+O16526,O16526_CAEEL,nan,CAEEL,1.0,,,,,,,1,,,,,,,
+Q23087,Q23087_CAEEL,nan,CAEEL,1.0,,,,,,,,,,,,1,,
+Q4QE99,Q4QE99_LEIMA,nan,LEIMA,1.0,,,,,,,,,,,,1,,
+Q54IT8,Q54IT8_DICDI,nan,DICDI,1.0,,,,,,,1,,,,,,,
+Q5F3X0,LCLT1_CHICK,nan,CHICK,1.0,,,,,,,,,,,,1,,
+Q6UWP7,LCLT1_HUMAN,nan,HUMAN,1.0,,,,,,,,,,,,1,,
+nan,nan,ENSCAFP00000007923,CANFA,1.0,,,,,,,,,,,,1,,

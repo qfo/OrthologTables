@@ -1,0 +1,16 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+A2H6C1,A2H6C1_TRIVA,nan,TRIVA,10.0,,,1,1,,1,1,1,1,1,,1,1,1
+A7RGD1,A7RGD1_NEMVE,nan,NEMVE,3.0,,,,,,,,1,1,,,,,1
+A7RGD2,A7RGD2_NEMVE,nan,NEMVE,3.0,,,,,,,,1,1,,,,,1
+A2A5X5,KR161_MOUSE,nan,MOUSE,2.0,,,,,,1,,,,,,1,,
+A7RI95,A7RI95_NEMVE,nan,NEMVE,2.0,,,,,,,,1,,1,,,,
+C3Z010,C3Z010_BRAFL,nan,BRAFL,2.0,,,1,1,,,,,,,,,,
+A7RI94,A7RI94_NEMVE,nan,NEMVE,1.0,,,,,,,,,,1,,,,
+A7T0P7,A7T0P7_NEMVE,nan,NEMVE,1.0,,,,,,,,1,,,,,,
+A7T5G2,A7T5G2_NEMVE,nan,NEMVE,1.0,,,,,,,,1,,,,,,
+A7TBL2,A7TBL2_NEMVE,nan,NEMVE,1.0,,,,,,,,,1,,,,,
+Q54C31,PSIR_DICDI,nan,DICDI,1.0,,,,,,,,,,,,,1,
+Q54VJ8,Q54VJ8_DICDI,nan,DICDI,1.0,,,,,,,,,1,,,,,
+Q7UNK9,Q7UNK9_RHOBA,nan,RHOBA,1.0,,,,,,,,,,,,,1,
+nan,nan,ENSXETP00000020556,XENTR,1.0,,,,,,,1,,,,,,,
+nan,nan,ENSXETP00000029081,XENTR,1.0,,,,,,,,,1,,,,,

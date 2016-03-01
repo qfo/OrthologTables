@@ -1,0 +1,15 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+B7PK95,B7PK95_IXOSC,nan,IXOSC,5.0,,,1,1,,,1,,,,,1,,1
+Q961V7,Q961V7_DROME,nan,DROME,2.0,,,,,,,1,,,,,,,1
+A7EVG0,A7EVG0_SCLS1,nan,SCLS1,1.0,,,,,,,1,,,,,,,
+A7SK58,A7SK58_NEMVE,nan,NEMVE,1.0,,,,,,,,,,,,,,1
+A7SYL1,A7SYL1_NEMVE,nan,NEMVE,1.0,,,,,,,,,,,,1,,
+H2RXX6,H2RXX6_TAKRU,ENSTRUP00000004996,TAKRU,1.0,,,,,,,1,,,,,,,
+Q08514,Q08514_CHICK,nan,CHICK,1.0,,,,,,,,,,,,,,1
+Q08515,Q08515_CHICK,nan,CHICK,1.0,,,,,,,1,,,,,,,
+Q08525,Q08525_CHICK,nan,CHICK,1.0,,,,,,,,,,,,,,1
+Q3LG55,Q3LG55_DANRE,nan,DANRE,1.0,,,,,,,,,,,,,,1
+Q59JU5,Q59JU5_CANAL,nan,CANAL,1.0,,,,1,,,,,,,,,,
+nan,nan,ENSBTAP00000048584,BOVIN,1.0,,,1,,,,,,,,,,,
+nan,nan,ENSXETP00000021048,XENTR,1.0,,,,,,,,,,,,,,1
+nan,nan,ENSXETP00000053055,XENTR,1.0,,,,,,,,,,,,,,1

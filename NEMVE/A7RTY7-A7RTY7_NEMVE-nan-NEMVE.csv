@@ -1,0 +1,11 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+A7RTY7,A7RTY7_NEMVE,nan,NEMVE,9.0,1,,1,1,,1,1,1,1,1,,,,1
+Q59X49,DDR48_CANAL,nan,CANAL,7.0,1,,,1,,1,1,1,1,,,,,1
+A2E6S0,A2E6S0_TRIVA,nan,TRIVA,2.0,,,1,1,,,,,,,,,,
+Q6CBL5,Q6CBL5_YARLI,nan,YARLI,2.0,,,,,,,1,,1,,,,,
+Q6CE66,Q6CE66_YARLI,nan,YARLI,2.0,,,,,,1,,1,,,,,,
+F6TAE3,F6TAE3_ORNAN,ENSOANP00000004779,ORNAN,1.0,,,,,,,,1,,,,,,
+O96233,O96233_PLAF7,nan,PLAF7,1.0,,,,,,,,,,1,,,,
+P18899,DDR48_YEAST,nan,YEAST,1.0,,,,,,,,,1,,,,,
+Q5KCI5,Q5KCI5_CRYNJ,nan,CRYNJ,1.0,,,,1,,,,,,,,,,
+nan,nan,ENSXETP00000034327,XENTR,1.0,,,,,,,,,,1,,,,

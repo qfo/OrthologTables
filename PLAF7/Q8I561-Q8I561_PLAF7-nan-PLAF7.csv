@@ -1,0 +1,15 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q8I561,Q8I561_PLAF7,nan,PLAF7,6.0,1,1,,,,1,1,,,,,1,,1
+Q7S2R5,Q7S2R5_NEUCR,nan,NEUCR,4.0,1,1,,,,1,1,,,,,,,
+A7ERL5,A7ERL5_SCLS1,nan,SCLS1,3.0,1,1,,,,1,,,,,,,,
+P40157,VID27_YEAST,nan,YEAST,3.0,1,1,,,,1,,,,,,,,
+Q555V7,VID27_DICDI,nan,DICDI,3.0,1,1,,,,,,,,,,1,,
+Q5KGN3,Q5KGN3_CRYNJ,nan,CRYNJ,3.0,1,1,,,,1,,,,,,,,
+nan,nan,ENSXETP00000053899,XENTR,3.0,,,,,,1,1,,,,,,,1
+C3Z0E5,C3Z0E5_BRAFL,nan,BRAFL,2.0,,,,,,1,1,,,,,,,
+Q4PEZ1,Q4PEZ1_USTMA,nan,USTMA,2.0,,,,,,1,1,,,,,,,
+A7STT3,A7STT3_NEMVE,nan,NEMVE,1.0,,,,,,1,,,,,,,,
+A7TDD2,A7TDD2_NEMVE,nan,NEMVE,1.0,,,,,,,1,,,,,,,
+O74334,nan,nan,nan,1.0,,,,,,1,,,,,,,,
+Q6CA59,Q6CA59_YARLI,nan,YARLI,1.0,,,,,,1,,,,,,,,
+Q8TUP8,Q8TUP8_METAC,nan,METAC,1.0,,,,,,,1,,,,,,,

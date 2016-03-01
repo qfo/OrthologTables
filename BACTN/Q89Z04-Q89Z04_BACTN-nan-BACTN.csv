@@ -1,0 +1,15 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q89Z04,Q89Z04_BACTN,nan,BACTN,13.0,1,1,1,1,1,,1,1,1,1,1,1,1,1
+O06733,YISX_BACSU,nan,BACSU,11.0,1,1,1,1,,,1,1,1,1,,1,1,1
+Q8TTD0,Q8TTD0_METAC,nan,METAC,8.0,1,,,1,1,,1,,1,,1,1,1,
+Q9FBQ2,Q9FBQ2_STRCO,nan,STRCO,7.0,1,,1,1,,,1,1,,1,,,1,
+O50390,O50390_MYCTO,nan,MYCTU,5.0,1,,,1,,,1,,1,,,1,,
+B0G184,B0G184_DICDI,nan,DICDI,3.0,,,,,,,1,,,,,1,1,
+A9VC69,A9VC69_MONBE,nan,MONBE,1.0,,,,,,,1,,,,,,,
+B7P8A3,B7P8A3_IXOSC,nan,IXOSC,1.0,,,,,,,,,,,,1,,
+P32704,YJCF_ECOLI,nan,ECOLI,1.0,,,,,,,,,,,,1,,
+P73963,P73963_SYNY3,nan,SYNY3,1.0,,,,,,,1,,,,,,,
+Q89GZ3,Q89GZ3_BRADU,nan,BRADU,1.0,,,,,,,,,,,,1,,
+nan,nan,ENSCINP00000001711,CIOIN,1.0,1,,,,,,,,,,,,,
+nan,nan,ENSPTRP00000038083,PANTR,1.0,,,,,,,,,,,,1,,
+nan,nan,ENSXETP00000031348,XENTR,1.0,,,,,,,1,,,,,,,

@@ -1,0 +1,13 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q9K3V3,Q9K3V3_STRCO,nan,STRCO,9.0,1,,1,1,,,1,1,1,1,,,1,1
+Q89K14,Q89K14_BRADU,nan,BRADU,7.0,1,,1,,,,1,1,1,,,,1,1
+Q97U48,Q97U48_SULSO,nan,SULSO,5.0,,,1,1,,,1,1,,1,,,,
+Q8A8A5,Q8A8A5_BACTN,nan,BACTN,4.0,,,,,,,1,1,,,,,1,1
+Q8TR45,Q8TR45_METAC,nan,METAC,2.0,,,,,,,,,1,1,,,,
+B0R3Z3,B0R3Z3_HALS3,nan,HALS3,1.0,,,1,,,,,,,,,,,
+B0R5I9,B0R5I9_HALS3,nan,HALS3,1.0,,,,,,,,,,1,,,,
+P71983,P71983_MYCTU,nan,MYCTU,1.0,,,,,,,1,,,,,,,
+P72979,Y1512_SYNY3,nan,SYNY3,1.0,,,1,,,,,,,,,,,
+Q8RFU5,Q8RFU5_FUSNN,nan,FUSNN,1.0,,,,,,,,,,,,,,1
+Q97UU6,Q97UU6_SULSO,nan,SULSO,1.0,,,,,,,,,1,,,,,
+nan,nan,ENSXETP00000055227,XENTR,1.0,,,,,,,,,,1,,,,

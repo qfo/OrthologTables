@@ -1,0 +1,12 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q64653,Q64653_RAT,nan,RAT,5.0,1,,1,,,,,,1,1,,,1,
+nan,nan,ENSMUSP00000083623,MOUSE,5.0,1,,1,,,,,,1,1,,,1,
+nan,nan,ENSXETP00000050654,XENTR,3.0,,,,,,,,,1,1,,,1,
+C7U135,C7U135_DANRE,nan,DANRE,1.0,,,,,,,,,,,,,1,
+F7HGU2,F7HGU2_MACMU,ENSMMUP00000015311,MACMU,1.0,1,,,,,,,,,,,,,
+P34138,PTP2_DICDI,nan,DICDI,1.0,,,,,,,,,,,,,1,
+Q9PSC7,Q9PSC7_CHICK,nan,CHICK,1.0,,,,,,,,,1,,,,,
+nan,nan,ENSCINP00000020403,CIOIN,1.0,,,,,,,,,,,,,1,
+nan,nan,ENSCINP00000027110,CIOIN,1.0,,,,,,,,,,,,,1,
+nan,nan,ENSCINP00000028675,CIOIN,1.0,,,,,,,,,,1,,,,
+nan,nan,ENSPTRP00000008935,PANTR,1.0,1,,,,,,,,,,,,,

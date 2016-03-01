@@ -1,0 +1,13 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+A7SSF3,A7SSF3_NEMVE,nan,NEMVE,4.0,,,1,1,,,,,,,,1,1,
+A9VDP0,A9VDP0_MONBE,nan,MONBE,1.0,,,,,,,,,,,,1,,
+B7PNV1,B7PNV1_IXOSC,nan,IXOSC,1.0,,,,1,,,,,,,,,,
+C3YVE6,C3YVE6_BRAFL,nan,BRAFL,1.0,,,,,,,,,,,,,1,
+C3ZWR1,C3ZWR1_BRAFL,nan,BRAFL,1.0,,,1,,,,,,,,,,,
+D3ZUH3,D3ZUH3_RAT,nan,RAT,1.0,,,,1,,,,,,,,,,
+E1C6Y4,nan,nan,nan,1.0,,,,1,,,,,,,,,,
+F7GH79,F7GH79_MONDO,ENSMODP00000001436,MONDO,1.0,,,,,,,,,,,,1,,
+H2QBR2,H2QBR2_PANTR,ENSPTRP00000014447,PANTR,1.0,,,,1,,,,,,,,,,
+P55290,CAD13_HUMAN,nan,HUMAN,1.0,,,,1,,,,,,,,,,
+Q9WTR5,CAD13_MOUSE,nan,MOUSE,1.0,,,,1,,,,,,,,,,
+nan,nan,ENSXETP00000049707,XENTR,1.0,,,1,,,,,,,,,,,

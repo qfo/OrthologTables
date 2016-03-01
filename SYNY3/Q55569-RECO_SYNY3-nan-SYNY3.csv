@@ -1,0 +1,13 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q55569,RECO_SYNY3,nan,SYNY3,10.0,1,1,,1,,,1,1,1,1,,1,1,1
+Q7NPH1,RECO_GLOVI,nan,GLOVI,10.0,1,1,,1,,,1,1,1,1,,1,1,1
+A9WFW9,A9WFW9_CHLAA,nan,CHLAA,9.0,1,1,,1,,,1,1,,1,,1,1,1
+P42095,RECO_BACSU,nan,BACSU,7.0,1,,,,,,1,1,,1,,1,1,1
+P65983,nan,nan,nan,6.0,1,,,,,,1,,,1,,1,1,1
+Q7USC2,RECO_RHOBA,nan,RHOBA,6.0,1,,,1,,,1,,,1,,1,1,
+B5YIN3,RECO_THEYD,nan,THEYD,5.0,1,,,,,,1,,,1,,1,1,
+Q74FM9,RECO_GEOSL,nan,GEOSL,5.0,,,,,,,1,,,1,,1,1,1
+Q9L2H3,RECO_STRCO,nan,STRCO,5.0,1,,,,,,1,,,1,,,1,1
+P0A7H3,RECO_ECOLI,nan,ECOLI,3.0,1,,,,,,,,,,,1,1,
+Q8RDM1,Q8RDM1_FUSNN,nan,FUSNN,2.0,1,,,,,,1,,,,,,,
+Q9RW50,Q9RW50_DEIRA,nan,DEIRA,2.0,,,,,,,,,,,,1,1,

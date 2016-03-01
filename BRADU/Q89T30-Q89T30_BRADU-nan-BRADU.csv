@@ -1,0 +1,15 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q89T30,Q89T30_BRADU,nan,BRADU,11.0,1,1,1,1,,,1,1,1,1,,1,1,1
+A6VEA6,A6VEA6_PSEA7,nan,PSEA7,10.0,1,1,1,1,,,1,1,1,,,1,1,1
+P0A9U6,PUUR_ECOLI,nan,ECOLI,9.0,1,1,1,,,,1,1,1,,,1,1,1
+B5YHQ3,B5YHQ3_THEYD,nan,THEYD,3.0,,,,,,,1,1,,,,1,,
+A9WF50,A9WF50_CHLAA,nan,CHLAA,2.0,1,,,,,,,1,,,,,,
+Q74A51,Q74A51_GEOSL,nan,GEOSL,2.0,,,,,,,,,,,,1,1,
+Q8A1B0,Q8A1B0_BACTN,nan,BACTN,2.0,,,,,,,,1,,1,,,,
+Q8A421,Q8A421_BACTN,nan,BACTN,2.0,,,,,,,,1,,,,1,,
+Q8RHS0,Q8RHS0_FUSNN,nan,FUSNN,2.0,,,,,,,,,,1,,1,,
+Q8TQW3,Q8TQW3_METAC,nan,METAC,2.0,,,,,,,,,,1,,1,,
+Q8TLV9,Q8TLV9_METAC,nan,METAC,1.0,,,,,,,,,,1,,,,
+Q9RJL2,Q9RJL2_STRCO,nan,STRCO,1.0,,,,,,,,,,1,,,,
+Q9WZC4,Q9WZC4_THEMA,nan,THEMA,1.0,,,,,,,,,,,,,1,
+Q9X7W5,Q9X7W5_STRCO,nan,STRCO,1.0,,,,,,,,,,1,,,,

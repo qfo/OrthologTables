@@ -1,0 +1,14 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+B7PXS6,B7PXS6_IXOSC,nan,IXOSC,13.0,1,,1,1,1,1,1,1,1,1,1,1,1,1
+P0AGL5,RATA_ECOLI,nan,ECOLI,12.0,1,,1,1,1,,1,1,1,1,1,1,1,1
+A6VCM4,A6VCM4_PSEA7,nan,PSEA7,11.0,1,,1,1,1,,1,1,1,1,1,,1,1
+Q89LR5,Q89LR5_BRADU,nan,BRADU,9.0,,,,1,1,,1,1,1,1,1,1,1,
+A8DWJ9,A8DWJ9_NEMVE,nan,NEMVE,7.0,,,,,1,1,1,,,1,1,1,,1
+B0Y7A8,B0Y7A8_ASPFC,nan,ASPFC,1.0,,,,,,,1,,,,,,,
+B8LD45,B8LD45_THAPS,nan,THAPS,1.0,,,,,,,,,,,,1,,
+C0H4S7,C0H4S7_PLAF7,nan,PLAF7,1.0,,,,,,,,,1,,,,,
+Q304E9,nan,nan,nan,1.0,,,,,,,,,,,,1,,
+Q59NZ3,Q59NZ3_CANAL,nan,CANAL,1.0,,,,,,,1,,,,,,,
+Q96MF6,CQ10A_HUMAN,nan,HUMAN,1.0,,,,,,,,,,,,1,,
+Q9H8M1,CQ10B_HUMAN,nan,HUMAN,1.0,,,,,,,,,,,,1,,
+nan,nan,ENSGALP00000035401,CHICK,1.0,,,,1,,,,,,,,,,

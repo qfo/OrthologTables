@@ -1,0 +1,16 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+O66850,O66850_AQUAE,nan,AQUAE,11.0,1,1,,,1,,1,1,1,1,1,1,1,1
+P34749,HOFQ_ECOLI,nan,ECOLI,4.0,1,1,,,1,,,,,,1,,,
+B5YJ50,B5YJ50_THEYD,nan,THEYD,3.0,1,,,,1,,,,,,1,,,
+B8E238,B8E238_DICTD,nan,DICTD,3.0,1,,,,,,,,,,,1,1,
+Q7UX48,Q7UX48_RHOBA,nan,RHOBA,3.0,1,,,,1,,,,,,1,,,
+Q9RW95,DR774_DEIRA,nan,DEIRA,3.0,1,,,,,,,1,,,,1,,
+Q9WXU3,Q9WXU3_THEMA,nan,THEMA,3.0,,,,,1,,,,1,,1,,,
+A6VDG1,A6VDG1_PSEA7,nan,PSEA7,2.0,,,,,1,,,,,,1,,,
+Q74BL3,Q74BL3_GEOSL,nan,GEOSL,2.0,,,,,1,,,,,,1,,,
+Q7NEJ4,Q7NEJ4_GLOVI,nan,GLOVI,2.0,,,,,,,1,,,1,,,,
+Q89WL2,Q89WL2_BRADU,nan,BRADU,2.0,,,,,,,,1,,,,,1,
+Q89TP1,Q89TP1_BRADU,nan,BRADU,1.0,,,,,,,1,,,,,,,
+Q89UH8,Q89UH8_BRADU,nan,BRADU,1.0,,,,,,,,,,,,,,1
+Q9X0K1,Q9X0K1_THEMA,nan,THEMA,1.0,,,,,,,1,,,,,,,
+nan,nan,ENSXETP00000023415,XENTR,1.0,,,,,,,1,,,,,,,

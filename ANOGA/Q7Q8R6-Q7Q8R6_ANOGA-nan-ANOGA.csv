@@ -1,0 +1,12 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q7Q8R6,Q7Q8R6_ANOGA,nan,ANOGA,6.0,1,,,,1,1,,,1,,1,1,,
+B7PYC9,B7PYC9_IXOSC,nan,IXOSC,3.0,1,,,,,1,,,1,,,,,
+Q9VT50,INSL1_DROME,nan,DROME,3.0,,,,,1,,,,,,1,1,,
+Q9VT51,INSL2_DROME,nan,DROME,3.0,,,,,1,,,,,,1,1,,
+Q7KUD5,INSL5_DROME,nan,DROME,2.0,,,,,,,,,,,1,1,,
+A4IGV9,A4IGV9_XENTR,ENSXETP00000030638,XENTR,1.0,,,,,,1,,,,,,,,
+C3ZE99,C3ZE99_BRAFL,nan,BRAFL,1.0,,,,,,,,,,,,1,,
+O76469,nan,nan,nan,1.0,,,,,,1,,,,,,,,
+P01308,INS_HUMAN,nan,HUMAN,1.0,,,,,,,,,,,,1,,
+Q9VT52,INSL3_DROME,nan,DROME,1.0,,,,,,,,,,,,1,,
+Q9VT53,INSL4_DROME,nan,DROME,1.0,,,,,,,,,,,,1,,

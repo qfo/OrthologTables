@@ -1,0 +1,11 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+A7F5S1,A7F5S1_SCLS1,nan,SCLS1,6.0,1,,,,,1,1,1,1,1,,,,
+B8C391,B8C391_THAPS,nan,THAPS,3.0,,,,,,1,1,1,,,,,,
+B7QHB3,B7QHB3_IXOSC,nan,IXOSC,1.0,,,,,,1,,,,,,,,
+B7QHB4,B7QHB4_IXOSC,nan,IXOSC,1.0,,,,,,,,,,1,,,,
+B8BVE6,B8BVE6_THAPS,nan,THAPS,1.0,,,,,,,,1,,,,,,
+B8C7M6,B8C7M6_THAPS,nan,THAPS,1.0,,,,,,,,,,1,,,,
+F7F675,F7F675_MONDO,ENSMODP00000025493,MONDO,1.0,,,,,,,1,,,,,,,
+Q0TVH9,Q0TVH9_PHANO,nan,PHANO,1.0,,,,,,,,,1,,,,,
+Q5TVD0,Q5TVD0_ANOGA,nan,ANOGA,1.0,1,,,,,,,,,,,,,
+Q8RYC5,Q8RYC5_ARATH,nan,ARATH,1.0,,,,,,,,,,1,,,,

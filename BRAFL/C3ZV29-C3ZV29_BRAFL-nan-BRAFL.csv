@@ -1,0 +1,15 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+C3ZV29,C3ZV29_BRAFL,nan,BRAFL,6.0,,,1,,,1,1,1,1,,,,,1
+A7S8Y4,A7S8Y4_NEMVE,nan,NEMVE,2.0,,,,,,1,,1,,,,,,
+C4Q0L8,nan,nan,nan,2.0,,,,,,,,,1,,,,,1
+E1C1A5,E1C1A5_CHICK,nan,CHICK,2.0,,,,,,1,,,1,,,,,
+A7RTL1,A7RTL1_NEMVE,nan,NEMVE,1.0,,,,,,,,,1,,,,,
+A7STB9,A7STB9_NEMVE,nan,NEMVE,1.0,,,1,,,,,,,,,,,
+A7TAJ1,A7TAJ1_NEMVE,nan,NEMVE,1.0,,,,,,,,1,,,,,,
+C4QFN5,nan,nan,nan,1.0,,,,,,,1,,,,,,,
+F6YT70,F6YT70_MONDO,ENSMODP00000009822,MONDO,1.0,,,1,,,,,,,,,,,
+F7EZX0,F7EZX0_ORNAN,ENSOANP00000026705,ORNAN,1.0,,,1,,,,,,,,,,,
+H9GWB5,H9GWB5_CANFA,ENSCAFP00000018542,CANFA,1.0,,,1,,,,,,,,,,,
+Q7PNR7,Q7PNR7_ANOGA,nan,ANOGA,1.0,,,,,,,1,,,,,,,
+Q9VSU2,Q9VSU2_DROME,nan,DROME,1.0,,,,,,,1,,,,,,,
+nan,nan,ENSXETP00000057307,XENTR,1.0,,,1,,,,,,,,,,,

@@ -1,0 +1,12 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q08490,SGO1_YEAST,nan,YEAST,5.0,1,,1,,,1,,,1,1,,,,
+Q59ZG9,Q59ZG9_CANAL,nan,CANAL,2.0,,,1,,,,,,,1,,,,
+Q6CCR6,Q6CCR6_YARLI,nan,YARLI,2.0,1,,,,,1,,,,,,,,
+Q872U8,SGO1_NEUCR,nan,NEUCR,2.0,1,,,,,1,,,,,,,,
+Q9P7A0,SGO1_SCHPO,nan,SCHPO,2.0,,,,,,1,,,1,,,,,
+A7E6S3,A7E6S3_SCLS1,nan,SCLS1,1.0,,,,,,1,,,,,,,,
+B0XQ00,B0XQ00_ASPFC,nan,ASPFC,1.0,,,,,,1,,,,,,,,
+O13734,SGO2_SCHPO,nan,SCHPO,1.0,,,,,,,,,1,,,,,
+Q0USF4,Q0USF4_PHANO,nan,PHANO,1.0,,,,,,1,,,,,,,,
+Q4P5D6,Q4P5D6_USTMA,nan,USTMA,1.0,,,,,,,,,1,,,,,
+Q59ZN2,Q59ZN2_CANAL,nan,CANAL,1.0,,,,,,,,,,1,,,,

@@ -1,0 +1,14 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+B1L4Y1,B1L4Y1_KORCO,nan,KORCO,11.0,1,1,1,1,,,1,1,1,1,,1,1,1
+Q74BE3,Q74BE3_GEOSL,nan,GEOSL,11.0,1,1,1,1,,,1,1,1,1,,1,1,1
+Q8TKW2,COOS1_METAC,nan,METAC,11.0,1,1,1,1,,,1,1,1,1,,1,1,1
+Q58138,COOS_METJA,nan,METJA,8.0,1,1,1,1,,,1,1,1,1,,,,
+B5YHX5,HCP_THEYD,nan,THEYD,3.0,1,,,,,,1,,,,,1,,
+P75825,HCP_ECOLI,nan,ECOLI,2.0,1,,,,,,,,,,,1,,
+Q9X0Q4,HCP_THEMA,nan,THEMA,2.0,1,,,,,,1,,,,,,,
+B8BYB2,B8BYB2_THAPS,nan,THAPS,1.0,1,,,,,,,,,,,,,
+Q58175,HCP_METJA,nan,METJA,1.0,,,,,,,,,,,,1,,
+Q74FD5,HCP_GEOSL,nan,GEOSL,1.0,,,,,,,,,,,,1,,
+Q8A9X8,HCP_BACTN,nan,BACTN,1.0,,,,,,,,,,,,1,,
+Q8RFL1,HCP_FUSNN,nan,FUSNN,1.0,,,,,,,,,,,,1,,
+Q8TR73,COOS2_METAC,nan,METAC,1.0,,,,,,,,,,1,,,,

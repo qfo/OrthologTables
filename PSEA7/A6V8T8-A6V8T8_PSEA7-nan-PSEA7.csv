@@ -1,0 +1,15 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+A6V8T8,A6V8T8_PSEA7,nan,PSEA7,12.0,1,1,1,1,1,,1,1,1,1,1,,1,1
+nan,nan,ENSXETP00000051690,XENTR,12.0,1,1,1,1,1,,1,1,1,1,1,,1,1
+P06129,BTUB_ECOLI,nan,ECOLI,10.0,1,1,1,1,1,,,1,1,,1,,1,1
+Q8A957,Q8A957_BACTN,nan,BACTN,3.0,,,,,,,1,1,,,,,,1
+Q7NFC5,Q7NFC5_GLOVI,nan,GLOVI,2.0,,,,,,,,1,1,,,,,
+Q7NGR5,Q7NGR5_GLOVI,nan,GLOVI,2.0,,,1,1,,,,,,,,,,
+Q89EK1,Q89EK1_BRADU,nan,BRADU,2.0,,,,,1,,,,,,1,,,
+Q8EXL7,Q8EXL7_LEPIN,nan,LEPIN,2.0,,,,,1,,,,,,1,,,
+Q7NM72,Q7NM72_GLOVI,nan,GLOVI,1.0,1,,,,,,,,,,,,,
+Q89KM4,Q89KM4_BRADU,nan,BRADU,1.0,,,,,,,,,,,,,1,
+Q8RF34,Q8RF34_FUSNN,nan,FUSNN,1.0,,,,,,,,1,,,,,,
+nan,nan,ENSXETP00000024190,XENTR,1.0,,,,,,,,,,1,,,,
+nan,nan,ENSXETP00000037778,XENTR,1.0,,,,,,,,,,1,,,,
+nan,nan,ENSXETP00000051829,XENTR,1.0,,,,,,,,,,1,,,,

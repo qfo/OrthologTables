@@ -1,0 +1,14 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q7SFX1,Q7SFX1_NEUCR,nan,NEUCR,10.0,1,1,1,1,,1,1,1,,1,,,1,1
+A7F2V5,A7F2V5_SCLS1,nan,SCLS1,7.0,1,1,,,,1,1,1,,1,,,,1
+B0Y9U8,B0Y9U8_ASPFC,nan,ASPFC,7.0,1,1,,,,1,1,1,,1,,,,1
+Q5KGL1,Q5KGL1_CRYNJ,nan,CRYNJ,3.0,1,1,,,,1,,,,,,,,
+Q9HDY7,YK12_SCHPO,nan,SCHPO,2.0,,,,,,1,1,,,,,,,
+Q9XW25,Q9XW25_CAEEL,nan,CAEEL,2.0,,,1,1,,,,,,,,,,
+A7RUT8,A7RUT8_NEMVE,nan,NEMVE,1.0,,,,1,,,,,,,,,,
+B0XVD0,B0XVD0_ASPFC,nan,ASPFC,1.0,,,,,,,,,,,,,1,
+F7CE41,F7CE41_MACMU,ENSMMUP00000018502,MACMU,1.0,,,,1,,,,,,,,,,
+Q12334,SCM3_YEAST,nan,YEAST,1.0,,,,,,1,,,,,,,,
+Q7Z884,Q7Z884_CANAX,nan,CANAL,1.0,,,,,,,,,,,,,1,
+Q9VC00,nan,nan,nan,1.0,,,,,,,,,,,,,1,
+nan,nan,ENSBTAP00000039680,BOVIN,1.0,,,,1,,,,,,,,,,

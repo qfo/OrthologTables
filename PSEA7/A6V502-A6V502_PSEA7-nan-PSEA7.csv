@@ -1,0 +1,16 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+A6V502,A6V502_PSEA7,nan,PSEA7,7.0,,,,1,,,1,1,1,1,,,1,1
+A9U7M0,A9U7M0_PHYPA,nan,PHYPA,3.0,,,,,,,1,1,,1,,,,
+Q8RGK2,Q8RGK2_FUSNN,nan,FUSNN,3.0,,,,,,,,1,1,,,,,1
+Q8RI19,Q8RI19_FUSNN,nan,FUSNN,3.0,,,,,,,,1,1,,,,,1
+A9V8A7,A9V8A7_MONBE,nan,MONBE,1.0,,,,1,,,,,,,,,,
+H2R8N0,H2R8N0_PANTR,ENSPTRP00000051765,PANTR,1.0,,,,1,,,,,,,,,,
+P20930,FILA_HUMAN,nan,HUMAN,1.0,,,,1,,,,,,,,,,
+P32051,YDEK_ECOLI,nan,ECOLI,1.0,,,,,,,,,,,,,1,
+Q4Q2T9,Q4Q2T9_LEIMA,nan,LEIMA,1.0,,,,1,,,,,,,,,,
+Q74E10,Q74E10_GEOSL,nan,GEOSL,1.0,,,,,,,,,,,,,1,
+Q7UU38,Q7UU38_RHOBA,nan,RHOBA,1.0,,,,1,,,,,,,,,,
+Q89C73,Q89C73_BRADU,nan,BRADU,1.0,,,,,,,,,1,,,,,
+Q8RGZ3,Q8RGZ3_FUSNN,nan,FUSNN,1.0,,,,,,,,1,,,,,,
+nan,nan,ENSBTAP00000046691,BOVIN,1.0,,,,1,,,,,,,,,,
+nan,nan,ENSCAFP00000019151,CANFA,1.0,,,,1,,,,,,,,,,

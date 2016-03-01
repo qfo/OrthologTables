@@ -1,0 +1,15 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+O69684,O69684_MYCTO,nan,MYCTU,10.0,1,1,1,1,,,1,1,1,1,,,1,1
+Q9KXK7,Q9KXK7_STRCO,nan,STRCO,10.0,1,1,1,1,,,1,1,1,1,,,1,1
+Q3KM94,Q3KM94_CHLTA,nan,CHLTA,3.0,1,,,,,,1,,,,,,1,
+A9WIL9,A9WIL9_CHLAA,nan,CHLAA,2.0,1,,,,,,1,,,,,,,
+P73736,P73736_SYNY3,nan,SYNY3,2.0,,,,,,,1,,,,,,1,
+Q9RTX0,Q9RTX0_DEIRA,nan,DEIRA,2.0,,,,,,,1,,,,,,1,
+B5YG67,B5YG67_THEYD,nan,THEYD,1.0,1,,,,,,,,,,,,,
+P50864,CWLD_BACSU,nan,BACSU,1.0,,,,,,,1,,,,,,,
+P73581,P73581_SYNY3,nan,SYNY3,1.0,,,,,,,,,,,,,1,
+Q02114,LYTC_BACSU,nan,BACSU,1.0,1,,,,,,,,,,,,,
+Q74C54,Q74C54_GEOSL,nan,GEOSL,1.0,1,,,,,,,,,,,,,
+Q7NN91,Q7NN91_GLOVI,nan,GLOVI,1.0,,,,,,,,,,,,,1,
+Q89M87,Q89M87_BRADU,nan,BRADU,1.0,1,,,,,,,,,,,,,
+Q9RRC5,Q9RRC5_DEIRA,nan,DEIRA,1.0,,,,,,,,,,,,,1,

@@ -1,0 +1,15 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q9FLG3,Q9FLG3_ARATH,nan,ARATH,5.0,,,,1,,,1,,,1,1,,,1
+A9S1Y0,A9S1Y0_PHYPA,nan,PHYPA,3.0,,,,,,,1,,,1,1,,,
+A7RUL6,A7RUL6_NEMVE,nan,NEMVE,2.0,,,,,,,1,,,,,,,1
+A9SYT9,A9SYT9_PHYPA,nan,PHYPA,2.0,,,,,,,,,,1,1,,,
+B8BWN3,B8BWN3_THAPS,nan,THAPS,2.0,,,,,,,1,,,,1,,,
+B8CGH1,B8CGH1_THAPS,nan,THAPS,2.0,,,,,,,,,,1,1,,,
+B8CGH2,B8CGH2_THAPS,nan,THAPS,2.0,,,,,,,,,,1,1,,,
+A7RKD5,A7RKD5_NEMVE,nan,NEMVE,1.0,,,,1,,,,,,,,,,
+B8BRQ3,B8BRQ3_THAPS,nan,THAPS,1.0,,,,,,,,,,1,,,,
+B8BRS5,B8BRS5_THAPS,nan,THAPS,1.0,,,,,,,,,,1,,,,
+B8BU40,B8BU40_THAPS,nan,THAPS,1.0,,,,,,,,,,1,,,,
+B8BY42,B8BY42_THAPS,nan,THAPS,1.0,,,,,,,,,,1,,,,
+B8CGG8,B8CGG8_THAPS,nan,THAPS,1.0,,,,,,,,,,1,,,,
+C3Z8P4,C3Z8P4_BRAFL,nan,BRAFL,1.0,,,,1,,,,,,,,,,

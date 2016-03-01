@@ -1,0 +1,14 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+P78271,YFES_ECOLI,nan,ECOLI,13.0,1,1,1,1,1,,1,1,1,1,1,1,1,1
+Q8REN8,Q8REN8_FUSNN,nan,FUSNN,13.0,1,1,1,1,1,,1,1,1,1,1,1,1,1
+Q7UUQ8,Q7UUQ8_RHOBA,nan,RHOBA,3.0,1,,,,,,1,,1,,,,,
+Q8F1U5,Q8F1U5_LEPIN,nan,LEPIN,3.0,,,,,1,,,,,1,1,,,
+Q8F7G0,Q8F7G0_LEPIN,nan,LEPIN,3.0,,,,,,,1,,,1,1,,,
+Q8F856,Q8F856_LEPIN,nan,LEPIN,3.0,,,,,,,,,,1,1,,,1
+Q8F0J6,Q8F0J6_LEPIN,nan,LEPIN,2.0,,,,,,,,,,1,1,,,
+Q8F7G1,Q8F7G1_LEPIN,nan,LEPIN,2.0,,,,,,,,,,1,,,,1
+Q9RJH7,Q9RJH7_STRCO,nan,STRCO,2.0,,,,,1,,,,,,1,,,
+Q9RSF1,Q9RSF1_DEIRA,nan,DEIRA,2.0,1,,,,,,,,,,1,,,
+Q9RSL6,Q9RSL6_DEIRA,nan,DEIRA,2.0,,,,,1,,,,,,1,,,
+Q8F1V0,Q8F1V0_LEPIN,nan,LEPIN,1.0,,,,,,,,,,1,,,,
+Q8F2I5,Q8F2I5_LEPIN,nan,LEPIN,1.0,,,,,,,,,,1,,,,

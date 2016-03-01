@@ -1,0 +1,13 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q03281,HEH2_YEAST,nan,YEAST,12.0,1,1,1,1,,1,1,1,1,1,,1,1,1
+B0Y7P1,B0Y7P1_ASPFC,nan,ASPFC,6.0,,,,,,,,1,1,1,,1,1,1
+Q10109,LEM2_SCHPO,nan,SCHPO,6.0,,,1,1,,,,,,1,,1,1,1
+Q5KHY7,Q5KHY7_CRYNJ,nan,CRYNJ,6.0,,,,,,1,1,1,1,1,,,,1
+Q6C688,Q6C688_YARLI,nan,YARLI,6.0,,,,,,,1,1,1,1,,1,,1
+A7EQW5,A7EQW5_SCLS1,nan,SCLS1,5.0,,,,,,,,1,1,1,,,1,1
+Q0V063,Q0V063_PHANO,nan,PHANO,5.0,,,,1,,,,1,1,,,,1,1
+Q4PI55,Q4PI55_USTMA,nan,USTMA,5.0,,,,,,,,,1,1,,1,1,1
+Q7SDF2,nan,nan,nan,5.0,,,,,,,,1,1,1,,1,,1
+O13712,MUG61_SCHPO,nan,SCHPO,4.0,1,1,,,,,,,1,1,,,,
+Q5ACA2,Q5ACA2_CANAL,nan,CANAL,4.0,,,,,,,,1,1,1,,,,1
+Q54C61,Q54C61_DICDI,nan,DICDI,2.0,,,,,,,,,1,,,,1,

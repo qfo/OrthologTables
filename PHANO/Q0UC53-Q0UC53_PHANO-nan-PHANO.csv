@@ -1,0 +1,17 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+A7F893,A7F893_SCLS1,nan,SCLS1,14.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+B0YB12,B0YB12_ASPFC,nan,ASPFC,14.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Q0UC53,Q0UC53_PHANO,nan,PHANO,14.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Q5KFD5,Q5KFD5_CRYNJ,nan,CRYNJ,12.0,1,1,1,1,1,1,1,1,1,1,1,,,1
+B8DZM3,B8DZM3_DICTD,nan,DICTD,5.0,1,1,,,,,1,1,,,1,,,
+Q9X274,Q9X274_THEMA,nan,THEMA,4.0,,,,,,,1,1,,,1,,,1
+B8BUM3,B8BUM3_THAPS,nan,THAPS,1.0,,,,,,,,,,,1,,,
+B8DYX6,B8DYX6_DICTD,nan,DICTD,1.0,,,,,,,,1,,,,,,
+B8DZM1,B8DZM1_DICTD,nan,DICTD,1.0,,,,,,,,1,,,,,,
+B8DZM2,B8DZM2_DICTD,nan,DICTD,1.0,,,,,,,,1,,,,,,
+C3ZQ34,C3ZQ34_BRAFL,nan,BRAFL,1.0,,,,,,1,,,,,,,,
+C4QE39,nan,nan,nan,1.0,,,,,,1,,,,,,,,
+Q5KN45,Q5KN45_CRYNJ,nan,CRYNJ,1.0,,,,,,,,,,1,,,,
+Q7UGF4,Q7UGF4_RHOBA,nan,RHOBA,1.0,1,,,,,,,,,,,,,
+Q9X0S2,Q9X0S2_THEMA,nan,THEMA,1.0,,,,,,,,,,,1,,,
+Q9X273,Q9X273_THEMA,nan,THEMA,1.0,,,,,,,,1,,,,,,

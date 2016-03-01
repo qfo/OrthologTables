@@ -1,0 +1,15 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+nan,nan,ENSXETP00000034327,XENTR,10.0,1,,1,1,,1,1,1,1,1,,1,,1
+nan,nan,ENSCINP00000029055,CIOIN,5.0,,,1,1,,1,1,,,,,,,1
+B7PCW7,B7PCW7_IXOSC,nan,IXOSC,2.0,1,,,,,1,,,,,,,,
+E9Q0B4,E9Q0B4_MOUSE,ENSMUSP00000126250,MOUSE,2.0,,,,,,1,1,,,,,,,
+nan,nan,ENSCINP00000029738,CIOIN,2.0,,,,,,,,1,1,,,,,
+A7RPU5,A7RPU5_NEMVE,nan,NEMVE,1.0,1,,,,,,,,,,,,,
+A7RTY7,A7RTY7_NEMVE,nan,NEMVE,1.0,,,,,,,,,,1,,,,
+C3YIY7,C3YIY7_BRAFL,nan,BRAFL,1.0,,,,,,,1,,,,,,,
+C3ZDU1,C3ZDU1_BRAFL,nan,BRAFL,1.0,1,,,,,,,,,,,,,
+O96233,O96233_PLAF7,nan,PLAF7,1.0,,,,,,,,,,1,,,,
+Q8IEB7,Q8IEB7_PLAF7,nan,PLAF7,1.0,,,,,,1,,,,,,,,
+nan,nan,ENSCINP00000000068,CIOIN,1.0,,,,,,,,,,,,,,1
+nan,nan,ENSCINP00000001207,CIOIN,1.0,,,,,,,,,,,,1,,
+nan,nan,ENSCINP00000023759,CIOIN,1.0,,,,,,,,,1,,,,,

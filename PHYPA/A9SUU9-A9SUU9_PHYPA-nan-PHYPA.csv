@@ -1,0 +1,14 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+A9SUU9,A9SUU9_PHYPA,nan,PHYPA,8.0,,1,,,,1,1,1,1,1,1,,,1
+Q9M369,Q9M369_ARATH,nan,ARATH,5.0,,,,,,,,1,1,1,1,,,1
+A8BC75,A8BC75_GIAIC,nan,GIAIC,4.0,,,,,,,,1,,1,1,,,1
+A8BXI7,A8BXI7_GIAIC,nan,GIAIC,4.0,,,,,,,,1,,1,1,,,1
+Q3EAL9,nan,nan,nan,4.0,,,,,,,1,1,,,1,,,1
+Q4QDP4,Q4QDP4_LEIMA,nan,LEIMA,4.0,,,,,,1,,1,,,1,,,1
+Q5BPR8,Q5BPR8_ARATH,nan,ARATH,3.0,,,,,,,,,,1,1,,,1
+Q7Y227,Q7Y227_ARATH,nan,ARATH,3.0,,,,,,,,,,1,1,,,1
+A2A8R7,A2A8R7_MOUSE,nan,MOUSE,1.0,,1,,,,,,,,,,,,
+E1C6A7,E1C6A7_CHICK,nan,CHICK,1.0,,1,,,,,,,,,,,,
+F1MCY7,F1MCY7_BOVIN,ENSBTAP00000003525,BOVIN,1.0,,1,,,,,,,,,,,,
+Q5TAX3,TUT4_HUMAN,nan,HUMAN,1.0,,1,,,,,,,,,,,,
+Q9SCY9,Q9SCY9_ARATH,nan,ARATH,1.0,,,,,,,,,,,,,,1

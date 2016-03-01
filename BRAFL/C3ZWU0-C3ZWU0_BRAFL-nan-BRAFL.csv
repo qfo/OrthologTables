@@ -1,0 +1,16 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+C3ZWU0,C3ZWU0_BRAFL,nan,BRAFL,10.0,1,,1,1,,1,1,1,1,1,,1,,1
+B7Q446,B7Q446_IXOSC,nan,IXOSC,4.0,,,,,,1,1,1,,,,1,,
+H2V9M0,H2V9M0_TAKRU,ENSTRUP00000045910,TAKRU,4.0,1,,,,,1,,1,,,,,,1
+A7S9G5,A7S9G5_NEMVE,nan,NEMVE,3.0,,,,,,1,1,1,,,,,,
+Q7S4Q5,Q7S4Q5_NEUCR,nan,NEUCR,3.0,1,,,,,1,1,,,,,,,
+A7RGD2,A7RGD2_NEMVE,nan,NEMVE,2.0,,,1,1,,,,,,,,,,
+A7SGV6,A7SGV6_NEMVE,nan,NEMVE,1.0,,,,,,,,,1,,,,,
+A7SGV7,A7SGV7_NEMVE,nan,NEMVE,1.0,,,,,,,,,1,,,,,
+P41809,HKR1_YEAST,nan,YEAST,1.0,,,,,,,1,,,,,,,
+Q54VJ8,Q54VJ8_DICDI,nan,DICDI,1.0,,,,1,,,,,,,,,,
+Q8IR52,Q8IR52_DROME,nan,DROME,1.0,,,,,,,,1,,,,,,
+Q8TAX7,MUC7_HUMAN,nan,HUMAN,1.0,,,,1,,,,,,,,,,
+nan,nan,ENSCINP00000027892,CIOIN,1.0,,,,1,,,,,,,,,,
+nan,nan,ENSXETP00000006984,XENTR,1.0,,,,,,,,,,1,,,,
+nan,nan,ENSXETP00000049414,XENTR,1.0,1,,,,,,,,,,,,,

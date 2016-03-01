@@ -1,0 +1,15 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q9F3A6,Q9F3A6_STRCO,nan,STRCO,8.0,1,,,1,,,1,1,1,1,,,1,1
+Q97V05,Q97V05_SULSO,nan,SULSO,6.0,1,,,1,,,,1,1,1,,,,1
+nan,nan,ENSXETP00000029461,XENTR,5.0,,,,,,,1,,1,1,,,1,1
+B1L3L9,B1L3L9_KORCO,nan,KORCO,4.0,,,,,,,1,1,1,1,,,,
+B1L7H8,B1L7H8_KORCO,nan,KORCO,4.0,,,,1,,,,1,1,1,,,,
+P74740,P74740_SYNY3,nan,SYNY3,4.0,,,,,,,1,,1,1,,,,1
+Q89Y63,Q89Y63_BRADU,nan,BRADU,4.0,,,,,,,,,1,1,,,1,1
+Q74CF2,Q74CF2_GEOSL,nan,GEOSL,3.0,,,,,,,,,1,1,,,,1
+B0R2P7,B0R2P7_HALS3,nan,HALS3,2.0,,,,,,,,,1,1,,,,
+B0R6B5,B0R6B5_HALS3,nan,HALS3,2.0,,,,,,,,,1,1,,,,
+P95041,nan,nan,nan,2.0,,,,,,,,,1,1,,,,
+Q9WYP4,Q9WYP4_THEMA,nan,THEMA,2.0,,,,,,,,,1,1,,,,
+A9WK41,A9WK41_CHLAA,nan,CHLAA,1.0,,,,,,,,,1,,,,,
+Q55852,Q55852_SYNY3,nan,SYNY3,1.0,,,,,,,,,,1,,,,

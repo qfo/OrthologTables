@@ -1,0 +1,15 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+A9UZT7,A9UZT7_MONBE,nan,MONBE,6.0,,,1,1,,,1,1,,,,1,,1
+A7SKV6,A7SKV6_NEMVE,nan,NEMVE,2.0,,,1,1,,,,,,,,,,
+C3Y9Q2,C3Y9Q2_BRAFL,nan,BRAFL,2.0,,,1,1,,,,,,,,,,
+Q8TML2,Q8TML2_METAC,nan,METAC,2.0,,,,,,,1,1,,,,,,
+A6V4K1,A6V4K1_PSEA7,nan,PSEA7,1.0,,,,,,,,,,,,,,1
+A7SZM0,A7SZM0_NEMVE,nan,NEMVE,1.0,,,,,,,,,,,,1,,
+A8WGX6,A8WGX6_XENTR,ENSXETP00000016900,XENTR,1.0,,,,1,,,,,,,,,,
+B7P2N6,B7P2N6_IXOSC,nan,IXOSC,1.0,,,,,,,,,,,,1,,
+B8LDP8,B8LDP8_THAPS,nan,THAPS,1.0,,,,,,,1,,,,,,,
+P77318,YDEN_ECOLI,nan,ECOLI,1.0,,,,,,,,,,,,,,1
+Q7UGD7,Q7UGD7_RHOBA,nan,RHOBA,1.0,,,,,,,,,,,,,,1
+Q8A219,Q8A219_BACTN,nan,BACTN,1.0,,,,,,,,,,,,,,1
+Q8A220,Q8A220_BACTN,nan,BACTN,1.0,,,,,,,1,,,,,,,
+Q8TMK7,Q8TMK7_METAC,nan,METAC,1.0,,,,,,,,1,,,,,,

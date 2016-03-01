@@ -1,0 +1,15 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q9UXI0,Q9UXI0_SULSF,nan,SULSO,6.0,,,,,,,,1,1,1,,1,1,1
+B0R9D0,B0R9D0_HALS3,nan,HALS3,5.0,,,,,,,,1,,1,,1,1,1
+O67442,O67442_AQUAE,nan,AQUAE,5.0,,,,,,,,,1,1,,1,1,1
+O66931,O66931_AQUAE,nan,AQUAE,3.0,,,,,,,,,,1,,1,1,
+O83029,O83029_DEIRD,nan,DEIRA,2.0,,,,,,,,,,,,1,1,
+P76102,INSQ_ECOLI,nan,ECOLI,2.0,,,,,,,,,,,,1,1,
+Q5JD72,Q5JD72_THEKO,nan,THEKO,2.0,,,,,,,,,,1,,,,1
+Q5JFX7,Q5JFX7_THEKO,nan,THEKO,2.0,,,,,,,,,,1,,,,1
+Q5JI04,Q5JI04_THEKO,nan,THEKO,2.0,,,,,,,,,,1,,,,1
+Q8TH26,Q8TH26_METAC,nan,METAC,2.0,,,,,,,,,,,,1,1,
+Q8TJQ9,Q8TJQ9_METAC,nan,METAC,2.0,,,,,,,,,,,,1,1,
+Q9RU04,Q9RU04_DEIRA,nan,DEIRA,2.0,,,,,,,,,,,,1,1,
+Q9RXX7,Q9RXX7_DEIRA,nan,DEIRA,2.0,,,,,,,,,,,,1,1,
+Q9X8Z6,Q9X8Z6_STRCO,nan,STRCO,1.0,,,,,,,,,,,,,1,

@@ -1,0 +1,14 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+A6UXN0,A6UXN0_PSEA7,nan,PSEA7,10.0,,,1,1,1,,1,1,1,1,1,1,,1
+Q7UL66,Q7UL66_RHOBA,nan,RHOBA,8.0,,,1,,1,,,1,1,1,1,1,,1
+Q89P87,Q89P87_BRADU,nan,BRADU,8.0,,,1,,1,,1,1,1,1,1,,,1
+Q747T8,Q747T8_GEOSL,nan,GEOSL,7.0,,,,,1,,1,1,1,1,1,,,1
+A8DWK1,A8DWK1_NEMVE,nan,NEMVE,5.0,,,,,,,1,1,,1,,1,,1
+A8DWU8,A8DWU8_NEMVE,nan,NEMVE,2.0,,,,,,,,1,,1,,,,
+Q9L0P5,Q9L0P5_STRCO,nan,STRCO,2.0,,,,1,,,,,1,,,,,
+nan,nan,ENSXETP00000051738,XENTR,2.0,,,,,,,1,1,,,,,,
+C3ZAY2,C3ZAY2_BRAFL,nan,BRAFL,1.0,,,,,,,1,,,,,,,
+D3YVF0,AKAP5_MOUSE,nan,MOUSE,1.0,,,,,,,1,,,,,,,
+P24587,AKAP5_RAT,nan,RAT,1.0,,,,,,,1,,,,,,,
+Q8ILA3,Q8ILA3_PLAF7,nan,PLAF7,1.0,,,,,,,1,,,,,,,
+Q8RY25,NU98A_ARATH,nan,ARATH,1.0,,,,,,,1,,,,,,,

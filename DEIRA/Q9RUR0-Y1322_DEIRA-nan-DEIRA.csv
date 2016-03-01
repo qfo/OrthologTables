@@ -1,0 +1,17 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q9RUR0,Y1322_DEIRA,nan,DEIRA,10.0,,1,1,,1,,1,1,1,1,1,,1,1
+P33026,SETB_ECOLI,nan,ECOLI,7.0,,1,1,,,,1,1,1,1,,,1,
+P31675,SETA_ECOLI,nan,ECOLI,5.0,,,,,,,,1,1,1,,,1,1
+B0XNS9,B0XNS9_ASPFC,nan,ASPFC,2.0,,,,,1,,,,,,1,,,
+Q0UM41,Q0UM41_PHANO,nan,PHANO,2.0,,,,,1,,,,,,1,,,
+Q54LA4,Q54LA4_DICDI,nan,DICDI,2.0,,,,,1,,,,,,1,,,
+Q5JHU2,Q5JHU2_THEKO,nan,THEKO,2.0,,,,,1,,,,,,1,,,
+Q7ARU7,nan,nan,nan,2.0,,,,,1,,,,,,1,,,
+Q89IU8,Q89IU8_BRADU,nan,BRADU,2.0,,,,,1,,,,,,1,,,
+Q8A8B9,Q8A8B9_BACTN,nan,BACTN,2.0,,,,,1,,,,,,1,,,
+Q8TMZ1,Q8TMZ1_METAC,nan,METAC,2.0,,,,,1,,,,,,1,,,
+B1L3P4,B1L3P4_KORCO,nan,KORCO,1.0,,,,,,,,,,,,,1,
+B8DZC7,B8DZC7_DICTD,nan,DICTD,1.0,,,,,,,,,,,,,1,
+F1PPG9,F1PPG9_CANFA,ENSCAFP00000018226,CANFA,1.0,,,,,,,,,,,,,1,
+O50548,O50548_THEMT,nan,THEMA,1.0,,,,,,,,,,,,,1,
+Q89QN1,Q89QN1_BRADU,nan,BRADU,1.0,,,,,,,,,,,1,,,

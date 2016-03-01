@@ -1,0 +1,13 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+O07914,O07914_MYCTO,nan,MYCTU,13.0,1,1,1,1,1,,1,1,1,1,1,1,1,1
+Q89VZ8,Q89VZ8_BRADU,nan,BRADU,12.0,1,1,1,1,1,,1,1,1,1,1,,1,1
+Q9JN87,Q9JN87_STRCH,nan,STRCO,12.0,1,1,1,1,1,,1,1,1,1,1,,1,1
+A6V4Y0,A6V4Y0_PSEA7,nan,PSEA7,3.0,,,,,,,1,,,,,1,1,
+O34504,YCEB_BACSU,nan,BACSU,3.0,,,,,,,1,1,,,,,1,
+Q97Y17,Q97Y17_SULSO,nan,SULSO,3.0,,,,,,,,1,,1,1,,,
+nan,nan,ENSXETP00000050758,XENTR,3.0,,,,,,,,1,,1,1,,,
+Q9RZ33,Q9RZ33_DEIRA,nan,DEIRA,2.0,,,,,,,1,1,,,,,,
+B0R4G5,B0R4G5_HALS3,nan,HALS3,1.0,,,,,,,,,,1,,,,
+P0ADV5,YHBW_ECOLI,nan,ECOLI,1.0,,,,,,,1,,,,,,,
+P96651,YDDN_BACSU,nan,BACSU,1.0,,1,,,,,,,,,,,,
+Q9RWQ5,Q9RWQ5_DEIRA,nan,DEIRA,1.0,1,,,,,,,,,,,,,

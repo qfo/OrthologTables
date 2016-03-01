@@ -1,0 +1,14 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q9RJZ3,Q9RJZ3_STRCO,nan,STRCO,8.0,1,,1,,,,1,1,1,1,,,1,1
+Q89QC4,Q89QC4_BRADU,nan,BRADU,7.0,1,,1,,,,1,1,,1,,,1,1
+P31460,DGOR_ECOLI,nan,ECOLI,5.0,1,,,,,,1,1,,,,,1,1
+P31475,YIEP_ECOLI,nan,ECOLI,4.0,,,1,,,,,1,,1,,,,1
+nan,nan,ENSXETP00000016470,XENTR,3.0,1,,,,,,,,1,1,,,,
+Q9RT60,Q9RT60_DEIRA,nan,DEIRA,2.0,,,,,,,,,1,1,,,,
+A6V7G5,A6V7G5_PSEA7,nan,PSEA7,1.0,,,,,,,,,1,,,,,
+A6VEG4,A6VEG4_PSEA7,nan,PSEA7,1.0,,,,,,,,,,1,,,,
+A9WF83,A9WF83_CHLAA,nan,CHLAA,1.0,,,,,,,,,1,,,,,
+B8E213,B8E213_DICTD,nan,DICTD,1.0,,,,,,,,,1,,,,,
+O07007,LUTR_BACSU,nan,BACSU,1.0,,,,,,,,,1,,,,,
+P0ACL5,GLCC_ECOLI,nan,ECOLI,1.0,,,,,,,,,,1,,,,
+P67739,nan,nan,nan,1.0,,,,,,,,,1,,,,,

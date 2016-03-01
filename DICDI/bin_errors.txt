@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "make_binAgeCall_csv.py", line 35, in <module>
+    for line in lineGen:
+  File "/home/bjl786/scripts/LECA/infer_age.py", line 175, in ages_from_tables
+    with open(conversion_dictionary) as f:
+IOError: [Errno 2] No such file or directory: '../OtherInput/nodes2taxa_DICDI.p'

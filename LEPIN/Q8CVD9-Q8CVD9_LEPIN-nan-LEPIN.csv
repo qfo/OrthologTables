@@ -1,0 +1,9 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q8CVD9,Q8CVD9_LEPIN,nan,LEPIN,5.0,,,,,,,1,1,1,1,,,,1
+A8DW11,A8DW11_NEMVE,nan,NEMVE,4.0,,,,,,,,1,1,1,,,,1
+A2EE69,A2EE69_TRIVA,nan,TRIVA,2.0,,,,,,,1,1,,,,,,
+A2EEI1,A2EEI1_TRIVA,nan,TRIVA,1.0,,,,,,,,1,,,,,,
+A2FAR4,A2FAR4_TRIVA,nan,TRIVA,1.0,,,,,,,,1,,,,,,
+F7A3Q5,F7A3Q5_MONDO,ENSMODP00000006265,MONDO,1.0,,,,,,,1,,,,,,,
+O70572,NSMA_MOUSE,nan,MOUSE,1.0,,,,,,,1,,,,,,,
+Q8I537,Q8I537_PLAF7,nan,PLAF7,1.0,,,,,,,,,1,,,,,

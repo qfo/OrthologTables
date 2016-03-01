@@ -1,0 +1,13 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q8I3X9,Q8I3X9_PLAF7,nan,PLAF7,3.0,,,,,,1,1,,,,,,1,
+Q6DIC6,Q6DIC6_MOUSE,nan,MOUSE,2.0,,,,,,1,1,,,,,,,
+nan,nan,ENSXETP00000037478,XENTR,2.0,,,,,,1,1,,,,,,,
+A1L2F7,A1L2F7_DANRE,nan,DANRE,1.0,,,,,,1,,,,,,,,
+A7T4T6,A7T4T6_NEMVE,nan,NEMVE,1.0,,,,,,,1,,,,,,,
+A7YYJ2,A7YYJ2_DANRE,nan,DANRE,1.0,,,,,,,,,,,,,1,
+P72769,P72769_SYNY3,nan,SYNY3,1.0,,,,,,,1,,,,,,,
+P86790,CCZ1B_HUMAN,nan,HUMAN,1.0,,,,,,,,,,,,,1,
+Q5ZLN2,CCZ1_CHICK,nan,CHICK,1.0,,,,,,,,,,,,,1,
+Q6AYE1,Q6AYE1_RAT,ENSRNOP00000001365,RAT,1.0,,,,,,,,,,,,,1,
+Q8C1Y8,CCZ1_MOUSE,nan,MOUSE,1.0,,,,,,,,,,,,,1,
+Q9VJD7,Q9VJD7_DROME,nan,DROME,1.0,,,,,,1,,,,,,,,

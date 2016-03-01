@@ -1,0 +1,5 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+H2RA49,H2RA49_PANTR,ENSPTRP00000053503,PANTR,8.0,1,1,,,,1,1,1,1,1,,1,,
+P02814,SMR3B_HUMAN,nan,HUMAN,8.0,1,1,,,,1,1,1,1,1,,1,,
+Q61900,SMR3A_MOUSE,nan,MOUSE,2.0,,,,,,,,,,1,,1,,
+Q64371,Q64371_RAT,nan,RAT,1.0,,,,,,,,,,1,,,,

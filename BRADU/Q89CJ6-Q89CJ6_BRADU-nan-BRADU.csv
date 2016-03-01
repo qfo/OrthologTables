@@ -1,0 +1,12 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q89CJ6,Q89CJ6_BRADU,nan,BRADU,9.0,1,,1,1,,,1,1,1,1,,,1,1
+P95281,P95281_MYCTU,nan,MYCTU,6.0,1,,1,,,,,1,1,,,,1,1
+Q9RJX3,Q9RJX3_STRCO,nan,STRCO,5.0,,,1,,,,,,1,1,,,1,1
+Q97VV8,Q97VV8_SULSO,nan,SULSO,3.0,,,,,,,,,1,1,,,,1
+Q97YZ3,Q97YZ3_SULSO,nan,SULSO,3.0,,,,,,,,,1,1,,,,1
+A6V9I1,A6V9I1_PSEA7,nan,PSEA7,2.0,,,,,,,,1,,,,,,1
+P96846,P96846_MYCTO,nan,MYCTU,2.0,,,,,,,1,,,,,,1,
+F7B2D6,F7B2D6_MACMU,ENSMMUP00000013785,MACMU,1.0,,,,1,,,,,,,,,,
+O53550,O53550_MYCTO,nan,MYCTU,1.0,,,,,,,,,,1,,,,
+P0A9U8,YDIO_ECOLI,nan,ECOLI,1.0,,,,,,,,,,,,,1,
+P60584,CAIA_ECOLI,nan,ECOLI,1.0,,,,,,,,,,,,,1,

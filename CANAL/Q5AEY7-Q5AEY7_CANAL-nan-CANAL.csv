@@ -1,0 +1,5 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q5AEY7,Q5AEY7_CANAL,nan,CANAL,3.0,,,,1,,,1,,,1,,,,
+E2R5I3,E2R5I3_CANFA,ENSCAFP00000005365,CANFA,1.0,,,,1,,,,,,,,,,
+P47035,NET1_YEAST,nan,YEAST,1.0,,,,,,,1,,,,,,,
+Q02208,TOF2_YEAST,nan,YEAST,1.0,,,,,,,,,,1,,,,

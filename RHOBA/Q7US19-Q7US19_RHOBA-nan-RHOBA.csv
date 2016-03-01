@@ -1,0 +1,13 @@
+ACC,ENTRY,ENS,SPEC,COUNT,InParanoid,InParanoidCore,OMA_Groups,OMA_Pairs,PANTHER8_LDO,RBH,RSD,Orthoinspector,Hieranoid_2,EnsemblCompara_v2,PANTHER8_all,Metaphors,PhylomeDB,EggNOG
+Q7US19,Q7US19_RHOBA,nan,RHOBA,13.0,1,1,1,1,1,,1,1,1,1,1,1,1,1
+P0ACH8,MELR_ECOLI,nan,ECOLI,11.0,,1,1,1,1,,1,1,,1,1,1,1,1
+P95284,P95284_MYCTU,nan,MYCTU,2.0,,,,,1,,,,,,1,,,
+Q89T46,Q89T46_BRADU,nan,BRADU,2.0,,,,,,,,,1,,,1,,
+Q8CXR0,Q8CXR0_LEPIN,nan,LEPIN,2.0,1,,,,,,1,,,,,,,
+Q9S2C6,Q9S2C6_STRCO,nan,STRCO,2.0,,,,,,,1,,1,,,,,
+A9U6Q0,A9U6Q0_PHYPA,nan,PHYPA,1.0,,,,,,,,,,,1,,,
+P96660,YDEC_BACSU,nan,BACSU,1.0,,,,,,,,,,,,1,,
+Q89NH4,Q89NH4_BRADU,nan,BRADU,1.0,,,,,,,,,1,,,,,
+Q8A1Q0,Q8A1Q0_BACTN,nan,BACTN,1.0,,,,,,,,,,,,,1,
+Q9KY85,Q9KY85_STRCO,nan,STRCO,1.0,,,,,,,,,1,,,,,
+nan,nan,ENSXETP00000038415,XENTR,1.0,,,,,,,,,,,1,,,
